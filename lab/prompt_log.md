@@ -58,4 +58,21 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Checkpoint :** attente arbitrage utilisateur (3 points) avant analyses A1-A6.
 
 ---
+
+## 2026-06-29 — Définition VD + Analyses A1-A6
+**Décision :** vente directe = canal 7 (Q6_7≠Jamais) ∪ marché direct producteur (Q22=1) → 666 répondants (65%).
+**Analyses produites (données réelles, reproductibles) :**
+- A1 portefeuille de canaux (hyper 58,5% du budget, VD 1,5%)
+- A2 place VD (65% pénétration, paradoxe ampleur/budget)
+- A3 typologie ACM+CAH : 5 classes de stratégies d'approvisionnement
+- A4 profils socio-éco (CSP p=0,0001, âge p=0,005)
+- A5 régression logistique (pseudo-R²=0,022 ; cadres OR 2,16, budget OR 1,18)
+- A6 motivations marché (locaux 51%, circuit court 41%, goût 39%)
+**Fichiers produits :**
+- `code/02_construction_variables.py`, `code/03_analyses.py`
+- `articles/stade2_resultats.md`
+- `figures/svg/*.svg` + `figures/png/*.png` (fig1 à fig5)
+**Checkpoint :** présentation des résultats à l'utilisateur avant rédaction du draft IMRaD.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

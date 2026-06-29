@@ -18,11 +18,14 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Réception données réelles (enquête 24407)  | Terminé  | Étude devient empirique réelle (plus simulée). 1025 répondants représentatifs. |
 | 2026-06-29 | Stade 2A AUDIT des données                 | Terminé  | N=1025, 0% manquant clés, Q9 somme=100%. Vente directe : 49,7% pénétration, 1,5% budget |
 | 2026-06-29 | Stade 2B ALIGNEMENT RQ↔variables           | Terminé  | 4/5 sous-questions mesurables ; SQ5 (temporel) → discussion |
+| 2026-06-29 | Définition VD verrouillée                  | Terminé  | VD = canal 7 ∪ (Q22=1, marché direct producteur) = 666 (65%) |
+| 2026-06-29 | Stade 2C ANALYSES A1-A6                     | Terminé  | Descriptif + typologie ACM/CAH (5 classes) + régression + motivations ; 5 figures |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
 |---|-----------|----------------------------------|--------|
-| H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée, modulées par les contraintes de temps et de budget des ménages | **Soutenue par l'audit** (à confirmer en analyse) — vente directe 1,5% du budget vs hyper 58% | articles/stade2_audit_donnees.md |
+| H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée | **Confirmée** — VD 65% pénétration mais 1,5% budget (canal 7) vs hyper 58% | articles/stade2_resultats.md |
+| H2 | L'usage de la vente directe est faiblement déterminé par le profil socio-démo (transversalité sociale) | **Soutenue** — pseudo-R²=0,022 ; seuls cadres/prof.lib (OR 2,16) et budget (OR 1,18) significatifs | A5, articles/stade2_resultats.md |
 
 ## Choix effectués
 | Date       | Décision                       | Justification                          | Alternatives écartées          |
