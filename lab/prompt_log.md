@@ -75,4 +75,14 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Checkpoint :** présentation des résultats à l'utilisateur avant rédaction du draft IMRaD.
 
 ---
+
+## 2026-06-29 — Typologie 4-vs-5 + rédaction du draft
+**Décision :** 5 classes retenues (silhouette 0,237 > 0,207 ; classes distinctes par régularité d'usage, pas seulement pénétration). Libellés : Généralistes (624), Captifs grande distribution (249), Omnivores engagés (79), Multi-canal conventionnels (47), Hors-hypermarché (26).
+**Rédaction :** draft IMRaD complet en français, ~4550 mots, centré sur les stratégies d'approvisionnement + la transversalité sociale (H1 et H2 confirmées).
+**Fichiers produits :**
+- `code/04_typologie_comparaison.py` + `figures/*/figS_dendrogramme.*`
+- `articles/article_vente_directe.md`
+**Checkpoint :** Stade 2 (WRITE) terminé → checkpoint avant Stade 2.5 INTÉGRITÉ (obligatoire).
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
