@@ -26,4 +26,20 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 - `articles/test_installation.md`
 
 ---
+
+## 2026-06-29 — Lancement pipeline ARS `/ars-full`
+**Prompt :** « Rédiger un article complet sur l'achat de produits alimentaires en vente directe »
+**Choix utilisateur :** angle économie/marketing, IMRaD simulé, pilotage mixte, ~6-8k mots, France métropolitaine, 5 canaux (AMAP, marchés, ferme, plateformes, magasins de producteurs), angle « place dans les stratégies d'approvisionnement ».
+**Stade 1 RECHERCHE produit :**
+- Question de recherche reformulée + 5 sous-questions
+- Cadre conceptuel + hypothèse centrale H1
+- Bibliographie 18 références candidates (à vérifier au Stade 2.5)
+- Synthèse littérature 5 thèmes (A définition, B motivations, C freins, D post-COVID, E stratégies d'approvisionnement)
+- Méthodologie IMRaD avec données simulées explicitement marquées
+- Plan préliminaire IMRaD ~6 400 mots
+**Fichiers produits :**
+- `articles/stade1_recherche.md`
+**Checkpoint :** FULL — attente confirmation utilisateur avant Stade 2.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
