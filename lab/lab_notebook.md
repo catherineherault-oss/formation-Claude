@@ -15,11 +15,14 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Test fonctionnel : plan d'article fictif   | Terminé  | Plan 3 chapitres sur IA générative & évaluation supérieure |
 | 2026-06-29 | Démarrage projet : vente directe alimentaire | En cours | RQ recadrée sur « place dans stratégies d'approvisionnement », 5 canaux, France métropolitaine |
 | 2026-06-29 | Stade 1 RECHERCHE (pipeline ARS)           | Terminé  | RQ Brief + biblio 18 réfs + synthèse 5 thèmes + méthode IMRaD simulé |
+| 2026-06-29 | Réception données réelles (enquête 24407)  | Terminé  | Étude devient empirique réelle (plus simulée). 1025 répondants représentatifs. |
+| 2026-06-29 | Stade 2A AUDIT des données                 | Terminé  | N=1025, 0% manquant clés, Q9 somme=100%. Vente directe : 49,7% pénétration, 1,5% budget |
+| 2026-06-29 | Stade 2B ALIGNEMENT RQ↔variables           | Terminé  | 4/5 sous-questions mesurables ; SQ5 (temporel) → discussion |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
 |---|-----------|----------------------------------|--------|
-| H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée, modulées par les contraintes de temps et de budget des ménages | En cours (à tester) | Synthèse Stade 1, articles/stade1_recherche.md |
+| H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée, modulées par les contraintes de temps et de budget des ménages | **Soutenue par l'audit** (à confirmer en analyse) — vente directe 1,5% du budget vs hyper 58% | articles/stade2_audit_donnees.md |
 
 ## Choix effectués
 | Date       | Décision                       | Justification                          | Alternatives écartées          |

@@ -49,3 +49,8 @@ venv/
 *.swp
 *.swo
 *~
+
+# Matériaux d'enquête propriétaires (gardés locaux — RGPD + droits institut)
+data/raw/24407_Export.xlsx
+references/24407_Plan_de_codage_VF.docx
+references/*_Plan_de_codage*.docx

@@ -42,4 +42,20 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Checkpoint :** FULL — attente confirmation utilisateur avant Stade 2.
 
 ---
+
+## 2026-06-29 — Réception données réelles + Stade 2A/2B
+**Prompt :** Upload de l'enquête réelle (24407_Export.xlsx) + plan de codage.
+**Résultat :**
+- Étude passe de « simulée » à empirique réelle (1025 répondants représentatifs nationaux).
+- Audit complet : 0% manquant sur variables clés, Q9 (parts budget) somme = 100%, 0 doublon.
+- Résultat saillant confortant H1 : vente directe (canal 7) = 49,7% de pénétration mais 1,5% du budget moyen (vs hypermarché 58%).
+- Alignement RQ↔variables : 4/5 sous-questions mesurables ; SQ5 (temporel) reléguée en discussion.
+**Fichiers produits :**
+- `code/01_audit_donnees.py`
+- `articles/stade2_audit_donnees.md`
+- `articles/stade2_alignement_rq.md`
+- `data/raw/24407_Export.xlsx` + `references/24407_Plan_de_codage_VF.docx` (LOCAUX, non poussés — RGPD/droits institut)
+**Checkpoint :** attente arbitrage utilisateur (3 points) avant analyses A1-A6.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

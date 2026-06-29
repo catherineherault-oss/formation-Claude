@@ -184,17 +184,21 @@ contribution.
 
 ---
 
-## 5. Méthodologie proposée (étude empirique simulée)
+## 5. Méthodologie (étude empirique sur données réelles)
 
-> ⚠️ **Méthodologie illustrative** : les données qui apparaîtront dans la
-> section Résultats du futur article seront **simulées à des fins
-> pédagogiques** et marquées comme telles. Aucun chiffre ne prétendra
-> représenter de vraies observations empiriques.
+> ✅ **Mise à jour (réception des données)** : la mention « données
+> simulées » est **caduque**. L'étude s'appuie désormais sur une
+> **enquête réelle** (réf. 24407) auprès d'un échantillon représentatif
+> national de **1 025 répondants** français responsables des achats
+> alimentaires de leur foyer. Voir `articles/stade2_audit_donnees.md`
+> pour l'audit complet et `articles/stade2_alignement_rq.md` pour
+> l'alignement question ↔ variables.
 
 ### Devis général
-**Étude transversale par questionnaire en ligne**, ménages français
-métropolitains, échantillon **simulé** N ≈ 1 500, structure
-représentative selon âge, CSP, taille d'unité urbaine.
+**Étude transversale par questionnaire**, ménages français,
+échantillon **représentatif national N = 1 025**, structure contrôlée
+par quotas (sexe, âge, CSP, géographie). Filtre : responsables au moins
+partiels des achats alimentaires du foyer.
 
 ### Variables clés
 - **Dépendantes** : part du budget alimentaire en vente directe ;
@@ -213,9 +217,11 @@ représentative selon âge, CSP, taille d'unité urbaine.
    l'appartenance à chaque type.
 
 ### Limites assumées
-- Données simulées (limite majeure, à expliciter dès l'introduction).
-- Auto-déclaration des comportements d'achat (biais de désirabilité sociale).
-- Cadre national : pas de comparaison régionale fine.
+- Enquête **transversale** : pas de mesure d'évolution temporelle
+  (la SQ5 sur les effets COVID/inflation sera traitée en discussion).
+- **Auto-déclaration** des comportements d'achat et des parts de budget
+  (biais de désirabilité sociale et d'estimation possibles).
+- Parts de budget **déclaratives** (Q9), non vérifiées sur tickets.
 
 ---
 
