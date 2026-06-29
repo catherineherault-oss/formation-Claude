@@ -12,6 +12,7 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | Date       | Direction                                  | Statut   | Observations                              |
 |------------|--------------------------------------------|----------|-------------------------------------------|
 | 2026-06-29 | Installation et configuration ARS v3.13.0  | Terminé  | 617 fichiers installés dans .claude/      |
+| 2026-06-29 | Test fonctionnel : plan d'article fictif   | Terminé  | Plan 3 chapitres sur IA générative & évaluation supérieure |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |

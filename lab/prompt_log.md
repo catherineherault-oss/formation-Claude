@@ -15,4 +15,15 @@
 - `lab/lab_notebook.md`, `lab/prompt_log.md`
 
 ---
+
+## 2026-06-29 — Test fonctionnel `/ars-plan`
+**Prompt :** Générer un plan de 3 chapitres pour un article fictif sur
+« l'impact de l'IA générative sur les pratiques d'évaluation dans
+l'enseignement supérieur ».
+**Résultat :** Plan structuré (question de recherche + 3 chapitres avec
+sections, sources et livrables + thèse opérationnelle en conclusion).
+**Fichiers produits :**
+- `articles/test_installation.md`
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
