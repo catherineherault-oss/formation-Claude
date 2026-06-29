@@ -85,4 +85,17 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Checkpoint :** Stade 2 (WRITE) terminé → checkpoint avant Stade 2.5 INTÉGRITÉ (obligatoire).
 
 ---
+
+## 2026-06-29 — Vérification automatique des références (partie du Stade 2.5)
+**Demande utilisateur :** vérifier et corriger automatiquement les références ; relire le draft avant de continuer.
+**Méthode :** WebSearch (API Crossref/OpenAlex bloquées par la politique réseau de l'env). 10 références vérifiées.
+**Résultat — 3 corrections factuelles :**
+- Dubuisson-Quellier, Lamine & Le Velly : année 2009 → **2011** (Sociologia Ruralis 51(3), 304-323)
+- « Filser 2003, Décisions Marketing » : **non confirmée** → remplacée par Filser & Plichon (2004), Revue Française de Gestion 30(148), 29-43
+- Praly et al. 2014 : titre + revue corrigés → « Les circuits de proximité… », *Géographie, économie, société*, 16(4), 455-478 (pas « Cahiers Agricultures »)
+- 7 autres références confirmées (Chiffoleau 2019, Goodman & DuPuis 2002, Lamine 2008, Maréchal 2008, Sage 2003, Volle 2012, MAA 2009) + paginations/DOI ajoutés.
+**Fichiers modifiés :** `articles/article_vente_directe.md` (liste de références + clés in-text).
+**Pipeline :** EN PAUSE — attente de la relecture et des commentaires de l'utilisateur avant la suite du Stade 2.5 (re-contrôle chiffres + checklist 7 modes) et toute expansion.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

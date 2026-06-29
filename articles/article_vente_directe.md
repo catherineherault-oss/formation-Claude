@@ -22,7 +22,7 @@ La vente directe de produits alimentaires — achat au producteur via les march�
 
 L'achat de produits alimentaires en vente directe — sans intermédiaire ou avec un seul intermédiaire entre le producteur et le consommateur — connaît en France une visibilité croissante depuis le début des années 2000. Marchés de plein vent, magasins de producteurs, associations pour le maintien d'une agriculture paysanne (AMAP), vente à la ferme et, plus récemment, plateformes de précommande en ligne (de type *La Ruche qui dit Oui*) composent un paysage de circuits courts dont la portée symbolique excède largement le poids économique [@chiffoleau2019; @praly2014]. Ces dispositifs sont régulièrement présentés comme des leviers de relocalisation alimentaire, de soutien au revenu agricole et de reconnexion entre mangeurs et producteurs.
 
-La recherche francophone a abondamment documenté deux faces de ce phénomène. D'un côté, les **formes d'organisation** de l'offre : la diversité des dispositifs, leurs modèles économiques, leurs trajectoires d'institutionnalisation [@maréchal2008; @praly2014]. De l'autre, les **motivations** des consommateurs : quête de qualité et de fraîcheur, confiance dans le producteur, soutien à l'économie locale, sens éthique et environnemental [@dubuisson2009; @lamine2008]. Ces deux littératures, précieuses, partagent toutefois une limite : elles tendent à isoler la vente directe du reste des pratiques d'achat, comme si elle constituait un univers à part, porté par une population spécifique et animé de logiques propres.
+La recherche francophone a abondamment documenté deux faces de ce phénomène. D'un côté, les **formes d'organisation** de l'offre : la diversité des dispositifs, leurs modèles économiques, leurs trajectoires d'institutionnalisation [@marechal2008; @praly2014]. De l'autre, les **motivations** des consommateurs : quête de qualité et de fraîcheur, confiance dans le producteur, soutien à l'économie locale, sens éthique et environnemental [@dubuisson2011; @lamine2008]. Ces deux littératures, précieuses, partagent toutefois une limite : elles tendent à isoler la vente directe du reste des pratiques d'achat, comme si elle constituait un univers à part, porté par une population spécifique et animé de logiques propres.
 
 Or, du point de vue du ménage, la vente directe n'est presque jamais un **canal exclusif**. Elle s'insère dans une combinaison de lieux et de modalités d'achat — l'hypermarché du samedi, le hard discount d'appoint, le marché du dimanche, l'artisan de quartier, le drive en ligne — que le foyer ajuste selon les produits, les saisons, le temps disponible et le budget. Cette combinaison, que la littérature en distribution nomme **portefeuille de canaux** ou *channel mix* [@volle2012], constitue précisément l'angle mort des travaux sur les circuits courts. Comprendre la place de la vente directe suppose alors de ne plus la regarder seule, mais **dans l'architecture des choix d'approvisionnement** du ménage.
 
@@ -38,13 +38,13 @@ Pour y répondre, nous mobilisons une enquête par questionnaire auprès d'un é
 
 ## 2.1 Les circuits courts et la vente directe : définitions
 
-En France, la définition administrative des circuits courts retient la présence d'**au plus un intermédiaire** entre le producteur et le consommateur [@maa2009]. La vente directe en constitue le sous-ensemble le plus strict — l'achat sans aucun intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, AMAP, paniers en précommande. Cette pluralité de formes partage une caractéristique commune : la **relation directe** au producteur, porteuse d'un supplément de sens et d'information sur le produit [@dubuisson2009].
+En France, la définition administrative des circuits courts retient la présence d'**au plus un intermédiaire** entre le producteur et le consommateur [@maa2009]. La vente directe en constitue le sous-ensemble le plus strict — l'achat sans aucun intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, AMAP, paniers en précommande. Cette pluralité de formes partage une caractéristique commune : la **relation directe** au producteur, porteuse d'un supplément de sens et d'information sur le produit [@dubuisson2011].
 
 Dans cet article, nous opérationnalisons la vente directe de façon à capter cette relation directe **quel que soit le lieu** où elle s'exerce. Concrètement, est considéré comme pratiquant la vente directe tout ménage qui déclare soit acheter directement aux agriculteurs en dehors des marchés (AMAP, magasin de producteurs, ferme, paniers), soit acheter sur les marchés **directement auprès d'un producteur** (et non d'un revendeur). Cette double porte — détaillée en section 3 — évite de réduire la vente directe à ses formes les plus institutionnalisées et reconnaît l'importance des marchés comme premier lieu de contact direct avec les agriculteurs.
 
 ## 2.2 Du canal isolé au portefeuille de canaux
 
-La littérature en marketing de la distribution a montré de longue date que les consommateurs ne sont pas fidèles à un format unique mais **fréquentent simultanément plusieurs enseignes et formats** (*cross-shopping*), répartissant leurs achats selon une logique de complémentarité [@volle2012; @filser2003]. Le ménage gère ainsi un **portefeuille de canaux**, c'est-à-dire un ensemble de lieux d'achat mobilisés pour des fonctions différentes : l'hypermarché pour le gros des courses et les prix, l'artisan pour la qualité de certains produits, le marché pour le frais et le plaisir, etc.
+La littérature en marketing de la distribution a montré de longue date que les consommateurs ne sont pas fidèles à un format unique mais **fréquentent simultanément plusieurs enseignes et formats** (*cross-shopping*), répartissant leurs achats selon une logique de complémentarité [@volle2012; @filserplichon2004]. Le ménage gère ainsi un **portefeuille de canaux**, c'est-à-dire un ensemble de lieux d'achat mobilisés pour des fonctions différentes : l'hypermarché pour le gros des courses et les prix, l'artisan pour la qualité de certains produits, le marché pour le frais et le plaisir, etc.
 
 Appliqué aux circuits courts, ce cadre suggère que la vente directe n'est pas en concurrence frontale avec la grande distribution, mais qu'elle **occupe une fonction spécifique** dans le portefeuille — typiquement, l'approvisionnement de certaines catégories de produits (légumes, œufs, fromages, viande) valorisées pour leur fraîcheur ou leur origine. La question n'est alors plus « pourquoi acheter en vente directe ? » mais « **quelle part et quelle fonction** la vente directe occupe-t-elle dans un portefeuille plus large ? ».
 
@@ -209,18 +209,18 @@ Plusieurs limites doivent être soulignées. D'abord, l'enquête est **transvers
 
 # Références
 
-> ⚠️ **À vérifier au Stade 2.5** — liste de candidats issus du Stade 1, à confirmer (existence, exactitude bibliographique) avant finalisation.
+> ✅ **Vérifiées le 2026-06-29** (WebSearch → éditeurs/Wiley/Cairn/HAL). 3 corrections appliquées par rapport aux candidats du Stade 1 (signalées ⟲).
 
-- Chiffoleau, Y. (2019). *Les circuits courts alimentaires : entre marché et innovation sociale*. Toulouse : Érès.
-- Dubuisson-Quellier, S., Lamine, C., & Le Velly, R. (2009). Citizenship and consumption: Mobilisation in alternative food systems in France. *Sociologia Ruralis*, 51(3).
-- Filser, M. (2003). Le marketing du point de vente : enjeux et perspectives. *Décisions Marketing*.
-- Goodman, D., & DuPuis, E. M. (2002). Knowing food and growing food: Beyond the production–consumption debate in the sociology of agriculture. *Sociologia Ruralis*, 42(1).
-- Lamine, C. (2008). *Les AMAP : un nouveau pacte entre producteurs et consommateurs ?* Gap : Yves Michel.
-- Maréchal, G. (dir.) (2008). *Les circuits courts alimentaires : bien manger dans les territoires*. Dijon : Éducagri.
-- Ministère de l'Agriculture et de l'Alimentation (2009). *Plan d'action pour développer les circuits courts*.
-- Praly, C., Chazoule, C., Delfosse, C., & Mundler, P. (2014). Les circuits courts de commercialisation en agriculture : diversité et enjeux pour le développement durable. *Cahiers Agricultures*.
-- Sage, C. (2003). Social embeddedness and relations of regard: Alternative 'good food' networks in south-west Ireland. *Journal of Rural Studies*, 19(1).
-- Volle, P. (2012). *Stratégie clients : points de vente, marketing multicanal et relation client*. Paris : Pearson.
+- Chiffoleau, Y. (2019). *Les circuits courts alimentaires : entre marché et innovation sociale*. Toulouse : Érès. [ISBN 978-2-7492-6234-5]
+- Dubuisson-Quellier, S., Lamine, C., & Le Velly, R. (**2011**). Citizenship and consumption: Mobilisation in alternative food systems in France. *Sociologia Ruralis*, 51(3), 304-323. ⟲ *(année corrigée 2009→2011 ; pages ajoutées)*
+- Filser, M., & Plichon, V. (**2004**). La valeur du comportement de magasinage : statut théorique et apports au positionnement de l'enseigne. *Revue Française de Gestion*, 30(148), 29-43. ⟲ *(remplace « Filser 2003, Décisions Marketing », référence non confirmée)*
+- Goodman, D., & DuPuis, E. M. (2002). Knowing food and growing food: Beyond the production–consumption debate in the sociology of agriculture. *Sociologia Ruralis*, 42(1), 5-22. [doi:10.1111/1467-9523.00199]
+- Lamine, C., & Perrot, N. (2008). *Les AMAP : un nouveau pacte entre producteurs et consommateurs ?* Gap : Yves Michel.
+- Maréchal, G. (dir.) (2008). *Les circuits courts alimentaires : bien manger dans les territoires*. Dijon : Éducagri. [doi:10.3917/edagri.colle.2008.01]
+- Ministère de l'Agriculture et de l'Alimentation (2009). *Plan d'action pour développer les circuits courts* (plan Barnier, avril 2009).
+- Praly, C., Chazoule, C., Delfosse, C., & Mundler, P. (2014). Les circuits de proximité, cadre d'analyse de la relocalisation des circuits alimentaires. *Géographie, économie, société*, 16(4), 455-478. ⟲ *(titre et revue corrigés ; n'était pas dans « Cahiers Agricultures »)*
+- Sage, C. (2003). Social embeddedness and relations of regard: Alternative 'good food' networks in south-west Ireland. *Journal of Rural Studies*, 19(1), 47-60.
+- Volle, P. (2012). *Stratégie clients : points de vue d'experts sur le management de la relation client*. Paris : Pearson. *(sous-titre corrigé)*
 
 ---
 
