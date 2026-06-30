@@ -98,4 +98,13 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Pipeline :** EN PAUSE — attente de la relecture et des commentaires de l'utilisateur avant la suite du Stade 2.5 (re-contrôle chiffres + checklist 7 modes) et toute expansion.
 
 ---
+
+## 2026-06-29 — Export Word (.docx)
+**Demande :** version Word de l'article pour relecture/annotation.
+**Réalisation :** installation pandoc (pypandoc-binary 3.9), création de `references/biblio.bib` (10 réfs vérifiées en BibTeX), conversion avec --citeproc (citations résolues + bibliographie auto + sommaire + 5 figures intégrées).
+**Fichiers produits :**
+- `outputs/word/article_vente_directe.docx`
+- `references/biblio.bib`
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
