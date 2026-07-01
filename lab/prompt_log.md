@@ -107,4 +107,13 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 - `references/biblio.bib`
 
 ---
+
+## 2026-06-29 — Actualisation de la revue de littérature (retour utilisateur)
+**Remarque utilisateur :** « les articles datent un peu, il faudrait les actualiser ».
+**Action :** recherche de littérature récente vérifiable (WebSearch) ; 2 références 2020/2025 ajoutées et tissées dans intro, cadre conceptuel, résultats (H2) et discussion :
+- Chiffoleau, Y., & Dourian, T. (2020), *Sustainability* 12(23), 9831 — revue circuits courts / résilience / COVID
+- Herzig, J., & Zander, K. (2025), *Agricultural and Food Economics* 13(1) — revue systématique des déterminants (conforte H2)
+**Fichiers modifiés :** `articles/article_vente_directe.md`, `references/biblio.bib`, `outputs/word/article_vente_directe.docx` (régénéré). Article ~4840 mots.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

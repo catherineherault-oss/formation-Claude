@@ -22,6 +22,9 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Stade 2C ANALYSES A1-A6                     | Terminé  | Descriptif + typologie ACM/CAH (5 classes) + régression + motivations ; 5 figures |
 | 2026-06-29 | Choix typologie 4 vs 5 classes             | Terminé  | 5 classes retenues (silhouette 0,237 ; classes distinctes par régularité) |
 | 2026-06-29 | Stade 2 RÉDACTION draft IMRaD              | Terminé  | article_vente_directe.md, ~4550 mots, focus stratégies + transversalité sociale |
+| 2026-06-29 | Vérif + correction des références           | Terminé  | 3 corrections factuelles (année/revue/réf fantôme) via WebSearch |
+| 2026-06-29 | Export Word (.docx)                         | Terminé  | pandoc + citeproc ; outputs/word/article_vente_directe.docx |
+| 2026-06-29 | Actualisation revue de littérature (retour utilisateur) | Terminé | +2 réfs récentes vérifiées : Chiffoleau & Dourian 2020, Herzig & Zander 2025 |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
