@@ -50,17 +50,17 @@ Nombre moyen de canaux fréquentés par ménage : **6.8**.
 
 ## A3 — Typologie des stratégies d'approvisionnement (ACM + CAH)
 
-ACM sur 11 canaux (3 niveaux), CAH de Ward en **5 classes** sur 5 axes factoriels.
+ACM sur 11 canaux (3 niveaux), CAH de Ward en **5 classes** sur 5 axes factoriels (numérotées par effectif décroissant).
 
-**Taux de fréquentation (pénétration) par canal et par classe :**
+**Taux de fréquentation (pénétration) par canal et par classe.** La colonne **% VD** applique la définition inclusive (achat direct au moins occasionnel) ; **% VD rég.** ne compte que l'achat direct régulier au producteur (canal 7 ≥ 1×/mois), ce qui distingue l'essai ponctuel de l'usage installé.
 
-| Classe (n) | Hyper/Super | Hard discount | Épiceries indép. | Surgelés | Bio spécialisé | Marché | Vente directe agri | Paniers interm. | Artisans/comm. | Coop./participatif | Vrac/locaux | % VD |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| C1 (n=624) | 100 | 91 | 80 | 84 | 66 | 91 | 55 | 8 | 96 | 19 | 15 | 72% |
-| C2 (n=79) | 100 | 97 | 100 | 94 | 96 | 95 | 92 | 87 | 94 | 87 | 92 | 97% |
-| C3 (n=249) | 100 | 71 | 25 | 41 | 15 | 38 | 14 | 2 | 60 | 0 | 2 | 28% |
-| C4 (n=47) | 100 | 98 | 96 | 100 | 100 | 100 | 98 | 74 | 96 | 94 | 91 | 100% |
-| C5 (n=26) | 65 | 77 | 62 | 65 | 58 | 81 | 42 | 15 | 88 | 19 | 15 | 81% |
+| Classe (n) | Hyper/Super | Hard discount | Épiceries indép. | Surgelés | Bio spécialisé | Marché | Vente directe agri | Paniers interm. | Artisans/comm. | Coop./participatif | Vrac/locaux | % VD | % VD rég. |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| C1 (n=624) | 100 | 91 | 80 | 84 | 66 | 91 | 55 | 8 | 96 | 19 | 15 | 72% | 16% |
+| C2 (n=249) | 100 | 71 | 25 | 41 | 15 | 38 | 14 | 2 | 60 | 0 | 2 | 28% | 6% |
+| C3 (n=79) | 100 | 97 | 100 | 94 | 96 | 95 | 92 | 87 | 94 | 87 | 92 | 97% | 67% |
+| C4 (n=47) | 100 | 98 | 96 | 100 | 100 | 100 | 98 | 74 | 96 | 94 | 91 | 100% | 19% |
+| C5 (n=26) | 65 | 77 | 62 | 65 | 58 | 81 | 42 | 15 | 88 | 19 | 15 | 81% | 8% |
 
 ![Figure 3](../figures/png/fig3_plan_factoriel.png)
 *Figure 3 — Plan factoriel (axes 1-2) de l'ACM, coloré par classe de stratégie.*
@@ -72,8 +72,8 @@ ACM sur 11 canaux (3 niveaux), CAH de Ward en **5 classes** sur 5 axes factoriel
 | Classe | Cadres/prof.lib | Employés/ouvriers | Inactifs/autres | Indép./agri | Prof. interm. | Retraités |
 |---|---|---|---|---|---|---|
 | C1 | 11% | 28% | 9% | 5% | 18% | 30% |
-| C2 | 19% | 41% | 10% | 4% | 14% | 13% |
-| C3 | 7% | 33% | 16% | 4% | 9% | 30% |
+| C2 | 7% | 33% | 16% | 4% | 9% | 30% |
+| C3 | 19% | 41% | 10% | 4% | 14% | 13% |
 | C4 | 21% | 30% | 9% | 6% | 19% | 15% |
 | C5 | 8% | 27% | 4% | 0% | 19% | 42% |
 
@@ -84,8 +84,8 @@ ACM sur 11 canaux (3 niveaux), CAH de Ward en **5 classes** sur 5 axes factoriel
 | Classe | 20-24 | 25-34 | 35-44 | 45-54 | 55-64 | 65+ |
 |---|---|---|---|---|---|---|
 | C1 | 7% | 15% | 16% | 18% | 17% | 27% |
-| C2 | 14% | 25% | 24% | 18% | 10% | 9% |
-| C3 | 7% | 14% | 19% | 15% | 15% | 29% |
+| C2 | 7% | 14% | 19% | 15% | 15% | 29% |
+| C3 | 14% | 25% | 24% | 18% | 10% | 9% |
 | C4 | 9% | 21% | 15% | 30% | 11% | 15% |
 | C5 | 8% | 15% | 4% | 15% | 23% | 35% |
 
@@ -93,13 +93,13 @@ ACM sur 11 canaux (3 niveaux), CAH de Ward en **5 classes** sur 5 axes factoriel
 
 **Budget alimentaire mensuel moyen par classe :**
 
-| Classe | Budget moyen (€) | % vente directe |
-|--------|------------------|-----------------|
-| C1 | 439 € | 72% |
-| C2 | 513 € | 97% |
-| C3 | 408 € | 28% |
-| C4 | 480 € | 100% |
-| C5 | 320 € | 81% |
+| Classe | Budget moyen (€) | % VD (inclusif) | % VD régulière |
+|--------|------------------|-----------------|----------------|
+| C1 | 439 € | 72% | 16% |
+| C2 | 408 € | 28% | 6% |
+| C3 | 513 € | 97% | 67% |
+| C4 | 480 € | 100% | 19% |
+| C5 | 320 € | 81% | 8% |
 
 ## A5 — Déterminants de l'usage de la vente directe (régression logistique)
 

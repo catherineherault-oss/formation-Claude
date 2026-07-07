@@ -132,18 +132,27 @@ except Exception:
     inertie_txt="(résumé d'inertie indisponible selon version prince)"
 K=5
 hc=AgglomerativeClustering(n_clusters=K,linkage="ward")
-A["classe"]=hc.fit_predict(coords.values)+1
-w(f"ACM sur 11 canaux (3 niveaux), CAH de Ward en **{K} classes** sur 5 axes factoriels.")
+raw_lab=hc.fit_predict(coords.values)
+# Renumérotation stable par effectif décroissant : C1 = classe la plus nombreuse
+order=pd.Series(raw_lab).value_counts().index.tolist()
+remap={old:new for new,old in enumerate(order,start=1)}
+A["classe"]=pd.Series(raw_lab,index=A.index).map(remap)
+w(f"ACM sur 11 canaux (3 niveaux), CAH de Ward en **{K} classes** sur 5 axes factoriels "
+  "(numérotées par effectif décroissant).")
 w()
 # Profil : pénétration par canal et par classe
-w("**Taux de fréquentation (pénétration) par canal et par classe :**")
+w("**Taux de fréquentation (pénétration) par canal et par classe.** "
+  "La colonne **% VD** applique la définition inclusive (achat direct au moins occasionnel) ; "
+  "**% VD rég.** ne compte que l'achat direct régulier au producteur (canal 7 ≥ 1×/mois), "
+  "ce qui distingue l'essai ponctuel de l'usage installé.")
 w()
-hdr="| Classe (n) | " + " | ".join(CANAUX[i] for i in range(1,12)) + " | % VD |"
-w(hdr); w("|"+"---|"*(13))
+hdr="| Classe (n) | " + " | ".join(CANAUX[i] for i in range(1,12)) + " | % VD | % VD rég. |"
+w(hdr); w("|"+"---|"*(14))
 for k in range(1,K+1):
     sub=A[A["classe"]==k]; nk=len(sub)
     cells=[f"{100*sub[f'penet_{i}'].mean():.0f}" for i in range(1,12)]
-    w(f"| C{k} (n={nk}) | " + " | ".join(cells) + f" | {100*sub['vente_directe'].mean():.0f}% |")
+    w(f"| C{k} (n={nk}) | " + " | ".join(cells)
+      + f" | {100*sub['vente_directe'].mean():.0f}% | {100*sub['vd_regulier'].mean():.0f}% |")
 w()
 # Figure A3 : plan factoriel coloré par classe
 fig,ax=plt.subplots(figsize=(7,6))
@@ -178,11 +187,11 @@ profil("age","Âge")
 # Budget moyen par classe
 w("**Budget alimentaire mensuel moyen par classe :**")
 w()
-w("| Classe | Budget moyen (€) | % vente directe |")
-w("|--------|------------------|-----------------|")
+w("| Classe | Budget moyen (€) | % VD (inclusif) | % VD régulière |")
+w("|--------|------------------|-----------------|----------------|")
 for k in range(1,K+1):
     sub=A[A["classe"]==k]
-    w(f"| C{k} | {sub['budget_eur'].mean():.0f} € | {100*sub['vente_directe'].mean():.0f}% |")
+    w(f"| C{k} | {sub['budget_eur'].mean():.0f} € | {100*sub['vente_directe'].mean():.0f}% | {100*sub['vd_regulier'].mean():.0f}% |")
 w()
 
 # ======================================================================= A5

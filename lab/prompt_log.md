@@ -116,4 +116,14 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Fichiers modifiés :** `articles/article_vente_directe.md`, `references/biblio.bib`, `outputs/word/article_vente_directe.docx` (régénéré). Article ~4840 mots.
 
 ---
+
+## 2026-06-29 — Correction typologie (question utilisateur : « pourquoi multi-canal conventionnel à 100% VD ? »)
+**Diagnostic :** la VD est définie de façon inclusive (achat direct au moins occasionnel). Les multi-canal conventionnels (n=47) ont essayé presque tous les canaux (canal 7 pénétration 98%, coop/vrac/paniers ~90%) mais ne les utilisent pas régulièrement (VD régulière 19%, coop/vrac/paniers 0% régulier). Le 100% reflète l'essai, pas l'engagement.
+**Corrections apportées :**
+- `code/03_analyses.py` : renumérotation des classes par effectif décroissant + ajout colonne « % VD régulière » (A3 et A4).
+- `articles/article_vente_directe.md` : tableau 3 refait (numérotation cohérente C1-C5 + VD régulière), libellé « évitent l'alternatif » corrigé en « essaient sans installer », prose §4.3/§4.4/§5.3 réécrite pour distinguer essai ponctuel vs usage installé.
+- `outputs/word/article_vente_directe.docx` régénéré (~5120 mots).
+**Leçon :** un taux inclusif élevé peut masquer un simple essai ; la colonne VD régulière lève l'ambiguïté.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

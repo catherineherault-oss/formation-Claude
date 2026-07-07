@@ -25,6 +25,7 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Vérif + correction des références           | Terminé  | 3 corrections factuelles (année/revue/réf fantôme) via WebSearch |
 | 2026-06-29 | Export Word (.docx)                         | Terminé  | pandoc + citeproc ; outputs/word/article_vente_directe.docx |
 | 2026-06-29 | Actualisation revue de littérature (retour utilisateur) | Terminé | +2 réfs récentes vérifiées : Chiffoleau & Dourian 2020, Herzig & Zander 2025 |
+| 2026-06-29 | Correction typologie (retour utilisateur)  | Terminé  | Ajout colonne « VD régulière » ; multi-canal conv. = 100% VD inclusif mais 19% régulier (essai large ≠ engagement) ; classes renumérotées ; libellé « évitent » corrigé |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
