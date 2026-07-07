@@ -112,14 +112,14 @@ footer(s, 2)
 # ===================================================== 3 PARADOXE (fig1)
 s = slide(); header(s, 1, "Un paradoxe d'ampleur")
 chip(s, Inches(0.5), Inches(1.5), Inches(3.5), "65 %", "des ménages achètent\nen vente directe", ROUGE)
-chip(s, Inches(0.5), Inches(3.3), Inches(3.5), "1,5 %", "seulement du budget\nalimentaire", ROUGE)
+chip(s, Inches(0.5), Inches(3.3), Inches(3.5), "1,5 %", "du budget national\n(mais 8,5 % chez ses réguliers)", ROUGE)
 chip(s, Inches(0.5), Inches(5.1), Inches(3.5), "58 %", "captés par le seul\nhypermarché", VERT)
 if (FIG/"fig1_part_budget_canal.png").exists():
     s.shapes.add_picture(str(FIG/"fig1_part_budget_canal.png"), Inches(4.4), Inches(1.45),
                          height=Inches(5.1))
 txt(s, Inches(4.4), Inches(6.75), Inches(8.4), Inches(0.5),
-    "→ Un canal de complémentarité ciblée, non de substitution.",
-    size=15, color=VERT, bold=True)
+    "→ Marginal à l'échelle du pays, non négligeable pour ses adeptes : complément, non substitut.",
+    size=14, color=VERT, bold=True)
 footer(s, 3)
 
 # ===================================================== 4 ESSAI vs ADOPTION

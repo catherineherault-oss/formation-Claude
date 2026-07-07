@@ -139,4 +139,15 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Fichiers modifiés :** `articles/article_vente_directe.md` (6 310 mots), `references/biblio.bib` (21 réfs), `outputs/word/article_vente_directe.docx` régénéré.
 
 ---
+
+## 2026-07-07 — Clarification du 1,5 % (question méthodo utilisateur)
+**Question :** pourquoi moyenner la part de budget sur toute la population (0 % pour les non-acheteurs) plutôt que sur les seuls acheteurs réguliers ?
+**Réponse retenue :** afficher les DEUX (1,5 % population = poids économique comparable/sommant à 100 % ; 8,5 % acheteurs réguliers = intensité). Le 0 des non-acheteurs est une vraie donnée (poids de marché). Nuance : 1,5 % est un plancher (Q9 posée aux seuls réguliers ; 332 acheteurs occasionnels comptés 0).
+**Modifications :**
+- §3.2 : note de méthode (Q9 recueillie auprès des réguliers, parts sommant à 100 %, distinction moyenne-population / moyenne-acheteurs, « plancher »).
+- §4.2 : les deux échelles (1,5 % national ≈ 7 €/mois ; 8,5 % chez les réguliers ≈ 42 €/mois) présentées côte à côte.
+- Slide copil « Paradoxe » : chip 1,5 % complété par « 8,5 % chez ses réguliers ».
+**Fichiers :** article (6 548 mots), DOCX + PPTX régénérés.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
