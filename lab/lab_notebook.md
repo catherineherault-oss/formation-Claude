@@ -31,6 +31,8 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-07 | Clarification métrique budget (1,5% vs 8,5%) | Terminé | Deux échelles présentées ; note de méthode §3.2 |
 | 2026-07-07 | Ciblage revue : Décisions Marketing         | En cours | Instructions + article exemple analysés ; manuscrit reformaté au format DM |
 | 2026-07-07 | Manuscrit format DM produit                 | Terminé  | Titre accroche, résumé 6 points + abstract EN, 3 encadrés, section implications managériales, réfs style RAM, figures N&B, page de titre séparée (anonymat) |
+| 2026-07-07 | Ré-enrichissement manuscrit DM              | Terminé  | Restauration substance (cadre + positionnement, managérial, profils classes) : 4136→5618 mots |
+| 2026-07-07 | Analyse « essai vs ancrage » (retour utilisateur) | Terminé | Récence d'achat par forme (Q22/30/38/46/53/61/70) : 54% des déclarants VD ont acheté le mois écoulé ; abandon jusqu'à 65% (AMAP). Nouvelle sous-section + Tableau 3 + Figure 3 ; 6231 mots |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |

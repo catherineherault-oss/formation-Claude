@@ -163,4 +163,16 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **À faire :** valider par l'utilisateur (titre, cibles) ; puis Stade 2.5 intégrité + revue Stade 3.
 
 ---
+
+## 2026-07-07 — Analyse « essai vs ancrage » (récence d'achat par forme)
+**Idée utilisateur :** exploiter l'écart entre Q6_7 (fréquentation déclarée) et les questions détaillées par forme (modalité 1 = « acheté au cours du mois de septembre »), pour montrer « déjà allés mais pas ancré dans la régularité ».
+**Validé par l'utilisateur :** (1) septembre = mois de terrain → « achat récent / mois écoulé » ; (2) les deux bases (% des essayeurs ET % des interrogés) ; (3) AMAP traitée à part (codage différent) ; (4) une sous-section dédiée.
+**Résultats (code/07_essai_ancrage.py) :**
+- Agrégat : 54% des 509 déclarants VD ont acheté au cours du mois écoulé ; 46% non.
+- Récence parmi les essayeurs : marché 62%, ferme 40%, magasin prod. 29%, halle 23%, panier 18%, foire 11% ; AMAP 35% actuels.
+- Abandon (« en achetaient, plus maintenant ») : panier 46%, AMAP 65%, foire 30%, halle 27% → gradient selon l'engagement exigé.
+**Intégré au manuscrit DM :** nouvelle sous-section « De l'essai à l'ancrage » + Tableau 3 + Figure 3 (barres empilées N&B) ; figures/tableaux renumérotés (numéros retirés des images, portés par les légendes) ; tie-ins résumé + reco « fidéliser ». 5618→6231 mots.
+**Fichiers :** `code/07_essai_ancrage.py`, `figures/*/fig6_essai_ancrage_nb.*`, `outputs/submitted/manuscrit_DM.{md,docx}`.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

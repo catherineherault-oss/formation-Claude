@@ -17,7 +17,7 @@ lang: fr
 
 **Méthodologie.** Une enquête par questionnaire auprès d'un échantillon représentatif national de 1 025 ménages mesure, pour treize canaux d'achat, la fréquence de recours et la part de budget. Une typologie des stratégies d'approvisionnement est construite par analyse des correspondances multiples et classification, complétée par une régression logistique des déterminants du recours à la vente directe.
 
-**Résultats.** La vente directe présente un paradoxe : elle touche 65 % des ménages mais ne pèse que 1,5 % du budget alimentaire national (8,5 % chez ses seuls acheteurs réguliers). Cinq stratégies d'approvisionnement se distinguent, des « captifs de la grande distribution » aux « omnivores engagés ». Le recours à la vente directe est faiblement déterminé par le profil sociodémographique : il traverse les catégories sociales.
+**Résultats.** La vente directe présente un paradoxe : elle touche 65 % des ménages mais ne pèse que 1,5 % du budget alimentaire national (8,5 % chez ses seuls acheteurs réguliers). Elle est largement essayée mais peu retenue — 46 % des ménages qui déclarent l'utiliser n'ont rien acheté au cours du mois écoulé, et l'abandon atteint 65 % pour les AMAP. Cinq stratégies d'approvisionnement se distinguent, des « captifs de la grande distribution » aux « omnivores engagés ». Le recours à la vente directe est enfin faiblement déterminé par le profil sociodémographique : il traverse les catégories sociales.
 
 **Implications managériales.** Le levier de croissance n'est pas la conquête de nouveaux publics — déjà largement atteinte — mais la conversion de l'essai en habitude : fidélisation, régularité et diversité de l'offre, levée des freins pratiques, communication sur le local et la qualité plutôt que sur le prix.
 
@@ -130,15 +130,43 @@ Ce poids budgétaire se lit à deux échelles. Rapportée à l'ensemble des mén
 
 Le contraste entre cette diffusion large (deux ménages sur trois) et ce faible poids économique constitue le résultat central. La vente directe n'est pas, pour l'immense majorité des ménages, un canal de substitution à la grande distribution, mais un **complément ciblé**, mobilisé occasionnellement. C'est une manifestation nette de l'écart entre intention et comportement : alors que Mustapa et Kallas (2025) chiffrent à +34,5 % le surprix que les consommateurs se disent prêts à payer, la part réellement allouée reste marginale. La vente directe est, en somme, largement essayée mais rarement intensive.
 
+## De l'essai à l'ancrage : un engagement peu retenu
+
+Le faible poids budgétaire trouve un écho dans un second indicateur, indépendant : la **récence d'achat**. Au-delà de la question générale de fréquentation, l'enquête demande, pour chaque forme de vente directe, si le ménage y a acheté **au cours du mois écoulé** — distinguant l'acheteur actif de celui qui « achète encore, mais pas ce mois-ci », et de celui qui « en achetait, mais plus maintenant ». L'écart entre la fréquentation déclarée et cet achat récent est révélateur (Tableau 3, Figure 3).
+
+Au niveau agrégé, parmi les 509 ménages qui déclarent acheter en vente directe aux agriculteurs, **54 % seulement ont effectivement acheté au cours du mois écoulé** via l'une des formes ; 46 % n'ont rien acheté récemment. La fréquentation déclarée surestime donc sensiblement la pratique en cours.
+
+Surtout, la récence décroît fortement avec le degré d'engagement qu'exige la forme. Les formes conviviales et sans engagement — le marché — restent les plus ancrées : 62 % de ceux qui y ont déjà acheté au producteur l'ont fait le mois écoulé. À l'opposé, les formes les plus engageantes sont massivement **abandonnées** : parmi ceux qui les ont déjà essayées, 46 % ont cessé pour les paniers en ligne, 30 % pour les foires et salons, 27 % pour les halles. Le cas des AMAP est extrême : sur les ménages qui en ont un jour été clients, **près des deux tiers (65 %) ne le sont plus**.
+
+**Tableau 3 : De l'essai à l'ancrage — récence d'achat par forme de vente directe**
+
+| Forme | Interrogés (n) | Ont déjà acheté (n) | Achat le mois écoulé (% des essayeurs) | Achat le mois écoulé (% des interrogés) | En achetaient, plus maintenant (% des essayeurs) |
+|-------|:---:|:---:|:---:|:---:|:---:|
+| Marché (au producteur) | 810 | 770 | 62 % | 59 % | 6 % |
+| À la ferme | 509 | 433 | 40 % | 34 % | 19 % |
+| Magasin de producteurs | 509 | 351 | 29 % | 20 % | 22 % |
+| Halle commerçante | 509 | 359 | 23 % | 16 % | 27 % |
+| Panier en ligne (La Ruche…) | 509 | 155 | 18 % | 6 % | 46 % |
+| Foire / salon | 509 | 297 | 11 % | 7 % | 30 % |
+| AMAP* | 509 | 116 | 35 % | 8 % | 65 % |
+
+*Base « interrogés » : chalands de marché (810) pour le marché ; acheteurs en vente directe aux agriculteurs (509) pour les autres formes. \*AMAP : codage sans référence au mois écoulé (adhérent actuel vs ancien) ; « % des essayeurs » = adhérents actuels parmi les adhérents actuels et anciens ; « en achetaient, plus maintenant » = anciens adhérents.*
+
+![Figure 3](../../figures/png/fig6_essai_ancrage_nb.png)
+
+**Figure 3 : De l'essai à l'ancrage — récence d'achat par forme de vente directe**
+
+Ce gradient confirme, par un tout autre chemin que le budget, le même diagnostic : la vente directe est **largement essayée, mais son usage peine à s'installer** — et d'autant plus que la forme exige de l'engagement. Le point de fuite n'est donc pas l'accès ou l'essai, déjà acquis, mais la **rétention**.
+
 ## Cinq stratégies d'approvisionnement
 
-La typologie fait émerger cinq stratégies distinctes (Figure 3, Tableau 3), que l'examen conjoint de la pénétration et de l'usage régulier permet de caractériser. La lecture des deux mesures de vente directe — inclusive (au moins un achat) et régulière (au moins mensuel) — est essentielle, car un taux inclusif élevé peut recouvrir un simple essai.
+La typologie fait émerger cinq stratégies distinctes (Figure 4, Tableau 4), que l'examen conjoint de la pénétration et de l'usage régulier permet de caractériser. La lecture des deux mesures de vente directe — inclusive (au moins un achat) et régulière (au moins mensuel) — est essentielle, car un taux inclusif élevé peut recouvrir un simple essai.
 
-![Figure 3](../../figures/png/fig3_plan_factoriel_nb.png)
+![Figure 4](../../figures/png/fig3_plan_factoriel_nb.png)
 
-**Figure 3 : Plan factoriel (ACM) et classes de stratégie**
+**Figure 4 : Plan factoriel (ACM) et classes de stratégie**
 
-**Tableau 3 : Les cinq stratégies d'approvisionnement**
+**Tableau 4 : Les cinq stratégies d'approvisionnement**
 
 | Stratégie | Part | Budget moyen | Vente directe | dont régulière | Signature |
 |-----------|------|--------------|---------------|----------------|-----------|
@@ -156,25 +184,25 @@ Deux enseignements transversaux ressortent de cette typologie. Le premier est qu
 
 Les cinq stratégies diffèrent significativement par la catégorie socioprofessionnelle (p < 0,001) et par l'âge (p = 0,005). Les omnivores engagés et les multi-canal conventionnels sur-représentent les cadres et les professions intermédiaires et disposent des budgets les plus élevés ; les captifs de la grande distribution et les généralistes reflètent davantage la structure moyenne de la population ; le groupe hors-hypermarché se distingue par sa part élevée de retraités et son budget réduit. Ces écarts, réels, restent toutefois modestes au regard de la dispersion interne des classes.
 
-La régression logistique du recours à la vente directe (Figure 4) le confirme : le modèle explique très peu de sa variance (pseudo-R² de McFadden = 0,022). Deux effets seulement ressortent nettement : appartenir aux cadres et professions libérales multiplie par 2,16 les chances de pratiquer la vente directe (p = 0,003), et un budget alimentaire élevé l'accroît modérément (odds-ratio = 1,18 par écart-type, p = 0,028) ; les professions intermédiaires sont également au-dessus de la référence (odds-ratio = 1,60, p = 0,027). En revanche, le sexe, l'âge et la taille d'agglomération n'ont pas d'effet significatif.
+La régression logistique du recours à la vente directe (Figure 5) le confirme : le modèle explique très peu de sa variance (pseudo-R² de McFadden = 0,022). Deux effets seulement ressortent nettement : appartenir aux cadres et professions libérales multiplie par 2,16 les chances de pratiquer la vente directe (p = 0,003), et un budget alimentaire élevé l'accroît modérément (odds-ratio = 1,18 par écart-type, p = 0,028) ; les professions intermédiaires sont également au-dessus de la référence (odds-ratio = 1,60, p = 0,027). En revanche, le sexe, l'âge et la taille d'agglomération n'ont pas d'effet significatif.
 
-![Figure 4](../../figures/png/fig4_regression_or_nb.png)
+![Figure 5](../../figures/png/fig4_regression_or_nb.png)
 
-**Figure 4 : Déterminants de l'usage de la vente directe (odds-ratios)**
+**Figure 5 : Déterminants de l'usage de la vente directe (odds-ratios)**
 
 La faiblesse de ce pouvoir explicatif est en soi un résultat : la vente directe n'est pas le marqueur d'un groupe social circonscrit. Si les cadres y recourent un peu plus, l'essentiel de la pratique se distribue transversalement — comme l'illustre l'existence du groupe hors-hypermarché à budget modeste. Ce constat converge avec Herzig et Zander (2025), pour qui les variables sociodémographiques expliquent finalement peu le comportement d'achat en circuit court.
 
-Interrogés sur leurs raisons d'acheter sur les marchés — lieu de contact direct le plus fréquent avec les producteurs —, les répondants placent en tête les produits locaux (cités dans le top 3 par 51 % d'entre eux), le circuit court (41 %), le goût (39 %) et le soutien aux agriculteurs (34 %) ; le prix n'arrive qu'au cinquième rang (18 %) (Figure 5). La vente directe se joue sur le registre de la qualité et du sens, non sur celui de l'économie monétaire.
+Interrogés sur leurs raisons d'acheter sur les marchés — lieu de contact direct le plus fréquent avec les producteurs —, les répondants placent en tête les produits locaux (cités dans le top 3 par 51 % d'entre eux), le circuit court (41 %), le goût (39 %) et le soutien aux agriculteurs (34 %) ; le prix n'arrive qu'au cinquième rang (18 %) (Figure 6). La vente directe se joue sur le registre de la qualité et du sens, non sur celui de l'économie monétaire.
 
-![Figure 5](../../figures/png/fig5_motivations_marche_nb.png)
+![Figure 6](../../figures/png/fig5_motivations_marche_nb.png)
 
-**Figure 5 : Motivations d'achat sur les marchés**
+**Figure 6 : Motivations d'achat sur les marchés**
 
 ## Ce que les acteurs peuvent en faire
 
 Ces résultats déplacent le diagnostic habituel. Tant que la vente directe est pensée comme une pratique de niche à diffuser, l'effort porte naturellement sur la sensibilisation et la conquête de nouveaux convaincus. Or nos données montrent que la conquête est, pour l'essentiel, déjà faite : deux ménages sur trois ont franchi le pas de l'achat direct. Le problème n'est pas d'ouvrir le canal à de nouveaux publics, mais de le **rendre régulier** chez ceux qui l'ont déjà essayé. Cette bascule de diagnostic — de l'acquisition vers la fidélisation, du convaincre vers le faciliter — structure quatre recommandations (Encadré 3), adressées prioritairement aux producteurs et réseaux de vente directe et aux collectivités.
 
-**Miser sur la fidélisation, non sur l'acquisition.** Le potentiel de conquête est largement atteint : 65 % des ménages ont déjà acheté en direct, mais seuls 17 % le font régulièrement, et un seul groupe sur cinq — les omnivores engagés — a vraiment installé la pratique. Le gisement de croissance se situe donc chez les quelque 48 % de ménages qui achètent en direct **sans régularité** : les faire passer de l'essai à l'habitude produirait un effet budgétaire bien supérieur à celui du recrutement de nouveaux essayeurs. Pour les producteurs et les réseaux de vente directe, cela oriente l'effort vers les **dispositifs de régularité** : abonnements et paniers récurrents à engagement souple, points de retrait situés sur les trajets domicile-travail plutôt qu'au seul lieu de production, élargissement des gammes pour couvrir une plus grande part du panier (et non les seuls fruits et légumes), horaires compatibles avec les actifs, et animation de la relation client (rappels, préparation anticipée des commandes, information sur la saisonnalité). La lecture omnicanale invite à ne pas opposer physique et numérique : la précommande en ligne assortie d'un retrait physique combine la commodité attendue et le contact direct valorisé.
+**Miser sur la fidélisation, non sur l'acquisition.** Le potentiel de conquête est largement atteint : 65 % des ménages ont déjà acheté en direct, mais seuls 17 % le font régulièrement, et un seul groupe sur cinq — les omnivores engagés — a vraiment installé la pratique. Le gisement de croissance se situe donc chez les quelque 48 % de ménages qui achètent en direct **sans régularité** : les faire passer de l'essai à l'habitude produirait un effet budgétaire bien supérieur à celui du recrutement de nouveaux essayeurs. Le fort taux d'abandon des formes les plus engageantes — jusqu'à 65 % pour les AMAP — confirme que l'enjeu est bien la **rétention**, non l'acquisition. Pour les producteurs et les réseaux de vente directe, cela oriente l'effort vers les **dispositifs de régularité** : abonnements et paniers récurrents à engagement souple, points de retrait situés sur les trajets domicile-travail plutôt qu'au seul lieu de production, élargissement des gammes pour couvrir une plus grande part du panier (et non les seuls fruits et légumes), horaires compatibles avec les actifs, et animation de la relation client (rappels, préparation anticipée des commandes, information sur la saisonnalité). La lecture omnicanale invite à ne pas opposer physique et numérique : la précommande en ligne assortie d'un retrait physique combine la commodité attendue et le contact direct valorisé.
 
 **Lever les freins pratiques, pas les réticences.** Les motivations sont acquises — local, qualité, goût, soutien aux agriculteurs arrivent loin devant le prix — et les freins ne sont pas idéologiques mais logistiques : temps, accessibilité, régularité et diversité de l'offre (Feldmann et Hamm, 2015). Pour les pouvoirs publics et les collectivités — notamment dans le cadre des projets alimentaires territoriaux —, l'action utile porte donc moins sur la sensibilisation, largement redondante, que sur l'**infrastructure** de la vente directe : mutualisation de points de vente et de logistique (halles de producteurs, drives fermiers partagés), horaires élargis, présence dans les zones périurbaines et rurales mal desservies, articulation avec la restauration collective pour sécuriser des débouchés réguliers aux producteurs. Autrement dit, financer des équipements et des services plutôt que des campagnes de conviction.
 

@@ -38,7 +38,7 @@ for y,(i,lab,val) in enumerate(rows):
     ax.text(val+0.4,y,f"{val:.1f}%",va="center",fontsize=8)
 ax.set_yticks(range(len(rows))); ax.set_yticklabels([r[1] for r in rows])
 ax.set_xlabel("Part moyenne du budget alimentaire (%)")
-ax.set_title("Figure 1 : Part du budget alimentaire par canal (n = 1 025)")
+ax.set_title("Part du budget alimentaire par canal (n = 1 025)")
 save(fig,"fig1_part_budget_canal_nb")
 
 # ---- Fig 2 : fréquence canal 7 (N&B) ---------------------------------------
@@ -47,7 +47,7 @@ vc=A["freq_7"].value_counts().sort_index()
 fig,ax=plt.subplots(figsize=(7,4))
 ax.bar([FREQ[k] for k in vc.index],vc.values,color="0.55",edgecolor="black")
 ax.set_ylabel("Nombre de répondants")
-ax.set_title("Figure 2 : Fréquence d'achat direct aux agriculteurs")
+ax.set_title("Fréquence d'achat direct aux agriculteurs")
 plt.xticks(rotation=30,ha="right")
 save(fig,"fig2_frequence_canal7_nb")
 
@@ -69,7 +69,7 @@ for k in range(1,6):
                edgecolors="black",linewidths=0.7,label=f"C{k}",alpha=.8)
 ax.axhline(0,color="0.7",lw=.5); ax.axvline(0,color="0.7",lw=.5)
 ax.set_xlabel("Axe 1"); ax.set_ylabel("Axe 2")
-ax.set_title("Figure 3 : Plan factoriel (ACM) et classes de stratégie")
+ax.set_title("Plan factoriel (ACM) et classes de stratégie")
 ax.legend(fontsize=8,markerscale=1.2)
 save(fig,"fig3_plan_factoriel_nb")
 
@@ -95,7 +95,7 @@ for y,i in enumerate(idx):
 ax.axvline(1,color="black",lw=.8,ls="--")
 ax.set_yticks(range(len(idx))); ax.set_yticklabels([cl(i) for i in idx],fontsize=8)
 ax.set_xlabel("Odds-ratio (points pleins : significatifs à 5 %)")
-ax.set_title("Figure 4 : Déterminants de l'usage de la vente directe")
+ax.set_title("Déterminants de l'usage de la vente directe")
 save(fig,"fig4_regression_or_nb")
 
 # ---- Fig 5 : motivations marché (N&B) --------------------------------------
@@ -110,7 +110,7 @@ items=items[::-1]
 fig,ax=plt.subplots(figsize=(8,5))
 ax.barh([x[0] for x in items],[x[1] for x in items],color="0.5",edgecolor="black")
 ax.set_xlabel(f"Citations dans le top 3 (base : {base} répondants)")
-ax.set_title("Figure 5 : Motivations d'achat sur les marchés")
+ax.set_title("Motivations d'achat sur les marchés")
 save(fig,"fig5_motivations_marche_nb")
 
 print("Figures N&B générées :",sorted(p.name for p in FIGP.glob('*_nb.png')))

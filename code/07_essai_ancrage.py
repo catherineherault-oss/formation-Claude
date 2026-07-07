@@ -59,7 +59,7 @@ for i in y:
     if stop[i]>6: ax.text(rec[i]+notrec[i]+stop[i]/2,i,f"{stop[i]:.0f}%",va="center",ha="center",fontsize=8)
 ax.set_yticks(list(y)); ax.set_yticklabels([f"{labs[i]} (n={data[i][4]})" for i in y])
 ax.set_xlabel("Répartition des ménages ayant DÉJÀ acheté via cette forme (%)")
-ax.set_title("Figure 6 : De l'essai à l'ancrage — récence d'achat par forme de vente directe")
+ax.set_title("De l'essai à l'ancrage — récence d'achat par forme de vente directe")
 ax.legend(fontsize=8,loc="lower right",framealpha=1); ax.set_xlim(0,100)
 fig.savefig(ROOT/"figures/svg/fig6_essai_ancrage_nb.svg",bbox_inches="tight")
 fig.savefig(ROOT/"figures/png/fig6_essai_ancrage_nb.png",dpi=300,bbox_inches="tight")
