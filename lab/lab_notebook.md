@@ -26,12 +26,15 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Export Word (.docx)                         | Terminé  | pandoc + citeproc ; outputs/word/article_vente_directe.docx |
 | 2026-06-29 | Actualisation revue de littérature (retour utilisateur) | Terminé | +2 réfs récentes vérifiées : Chiffoleau & Dourian 2020, Herzig & Zander 2025 |
 | 2026-06-29 | Correction typologie (retour utilisateur)  | Terminé  | Ajout colonne « VD régulière » ; multi-canal conv. = 100% VD inclusif mais 19% régulier (essai large ≠ engagement) ; classes renumérotées ; libellé « évitent » corrigé |
+| 2026-07-07 | Diaporama copil (PPTX)                     | Terminé  | 10 diapos, 2 figures, 3 leviers d'action ; outputs/presentations/ |
+| 2026-07-07 | Expansion revue de littérature (retour utilisateur) | Terminé | §2 réécrit en 4 sous-sections + tableau de positionnement ; +9 réfs vérifiées (omnicanal, conso durable, segmentation) ; H3 ajoutée ; article 5120→6310 mots |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
 |---|-----------|----------------------------------|--------|
 | H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée | **Confirmée** — VD 65% pénétration mais 1,5% budget (canal 7) vs hyper 58% | articles/stade2_resultats.md |
 | H2 | L'usage de la vente directe est faiblement déterminé par le profil socio-démo (transversalité sociale) | **Soutenue** — pseudo-R²=0,022 ; seuls cadres/prof.lib (OR 2,16) et budget (OR 1,18) significatifs | A5, articles/stade2_resultats.md |
+| H3 | L'adhésion déclarée à la VD dépasse largement son poids budgétaire réel (attitude-behaviour gap) | **Confirmée** — 65% de pratiquants mais ~1,5% du budget ; contraste avec +34,5% de consentement à payer (Mustapa & Kallas 2025) | §2.5, §4.2, §5.1 |
 
 ## Choix effectués
 | Date       | Décision                       | Justification                          | Alternatives écartées          |

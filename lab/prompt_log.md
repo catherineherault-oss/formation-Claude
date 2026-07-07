@@ -126,4 +126,17 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Leçon :** un taux inclusif élevé peut masquer un simple essai ; la colonne VD régulière lève l'ambiguïté.
 
 ---
+
+## 2026-07-07 — Diaporama de copil (PPTX)
+**Demande :** support de présentation pour un comité de pilotage.
+**Réalisation :** `code/05_slides_copil.py` (python-pptx) → 10 diapositives 16:9, 2 figures intégrées, 3 leviers d'action.
+**Fichier produit :** `outputs/presentations/copil_vente_directe.pptx`
+
+## 2026-07-07 — Expansion de la revue de littérature (retour utilisateur)
+**Demande :** « il faut vraiment abonder » + références proposées (omnicanal, conso durable, segmentation).
+**Réalisation :** §2 réécrit en 4 sous-sections (circuits courts / omnicanal / intention→budget / segmentation) + tableau de positionnement (Tableau 1). Tables de résultats renumérotées (2 à 5). Hypothèse H3 (attitude-behaviour gap) ajoutée et reliée aux résultats (§4.2) et à la discussion (§5.1).
+**9 références vérifiées ajoutées :** Verhoef et al. (2015), Neslin et al. (2006), Giampietri et al. (2016 & 2018), Birch et al. (2018), Mustapa & Kallas (2025), Vermeir & Verbeke (2006), Feldmann & Hamm (2015), Kneafsey et al. (2013, JRC).
+**Fichiers modifiés :** `articles/article_vente_directe.md` (6 310 mots), `references/biblio.bib` (21 réfs), `outputs/word/article_vente_directe.docx` régénéré.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

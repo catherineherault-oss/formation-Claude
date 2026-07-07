@@ -32,29 +32,54 @@ Cet article propose ce déplacement de focale. Il pose la question suivante :
 
 Quatre sous-questions précisent cette interrogation : (1) quels canaux les ménages combinent-ils, et à quelle fréquence ? (2) quelle part du budget alimentaire la vente directe capte-t-elle ? (3) peut-on identifier des **types** de stratégies d'approvisionnement, et à quels profils correspondent-ils ? (4) le recours à la vente directe est-il socialement déterminé ?
 
-Pour y répondre, nous mobilisons une enquête par questionnaire auprès d'un échantillon représentatif national de 1 025 ménages français. La contribution de l'article est double. Sur le plan **empirique**, il fournit une mesure actualisée, sur données représentatives, de la diffusion et du poids budgétaire de treize canaux d'approvisionnement, et propose une typologie inédite des stratégies de combinaison. Sur le plan **conceptuel**, il importe le cadre du portefeuille de canaux dans l'étude des circuits courts, montrant que la vente directe se comprend mieux comme un **complément diffus** que comme une pratique de niche.
+Pour y répondre, nous mobilisons une enquête par questionnaire auprès d'un échantillon représentatif national de 1 025 ménages français. La contribution de l'article est double. Sur le plan **empirique**, il fournit une mesure actualisée, sur données représentatives, de la diffusion et du poids budgétaire de treize canaux d'approvisionnement, et propose une typologie inédite des stratégies de combinaison. Sur le plan **conceptuel**, il se situe au croisement de trois courants — le **comportement omnicanal**, la **consommation alimentaire durable** et la **segmentation du consommateur** — dont il opère un déplacement commun : passer du **déclaratif** (attitudes, intentions, consentement à payer) à l'**allocation budgétaire réelle** entre canaux. La vente directe s'y révèle moins une pratique de niche qu'un **complément diffus** inscrit dans des portefeuilles d'approvisionnement pluriels.
 
 # 2. Cadre conceptuel
 
-## 2.1 Les circuits courts et la vente directe : définitions
+L'article se construit à la croisée de quatre littératures : la caractérisation des circuits courts, le comportement omnicanal en distribution, la consommation alimentaire durable et la segmentation du consommateur. Chacune est ici sollicitée pour un apport précis, résumé dans le tableau 1.
 
-En France, la définition administrative des circuits courts retient la présence d'**au plus un intermédiaire** entre le producteur et le consommateur [@maa2009]. La vente directe en constitue le sous-ensemble le plus strict — l'achat sans aucun intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, AMAP, paniers en précommande. Cette pluralité de formes partage une caractéristique commune : la **relation directe** au producteur, porteuse d'un supplément de sens et d'information sur le produit [@dubuisson2011].
+## 2.1 La vente directe, sous-ensemble des circuits courts
+
+En France, la définition administrative des circuits courts retient la présence d'**au plus un intermédiaire** entre le producteur et le consommateur [@maa2009]. La vente directe en constitue le sous-ensemble le plus strict — l'achat sans aucun intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, AMAP, paniers en précommande. Cette pluralité de formes partage une caractéristique commune : la **relation directe** au producteur, porteuse d'un supplément de sens et d'information sur le produit [@dubuisson2011]. À l'échelle européenne, l'état des lieux socio-économique dressé par @kneafsey2013 confirme l'hétérogénéité de ces dispositifs et la faiblesse persistante des données représentatives sur leur diffusion réelle auprès des ménages — un déficit que la présente enquête vise à combler. Les travaux de synthèse français [@chiffoleau2019; @praly2014] et la relecture post-pandémique de @chiffoleau2020 confirment par ailleurs une portée symbolique de la vente directe très supérieure à son poids économique.
 
 Dans cet article, nous opérationnalisons la vente directe de façon à capter cette relation directe **quel que soit le lieu** où elle s'exerce. Concrètement, est considéré comme pratiquant la vente directe tout ménage qui déclare soit acheter directement aux agriculteurs en dehors des marchés (AMAP, magasin de producteurs, ferme, paniers), soit acheter sur les marchés **directement auprès d'un producteur** (et non d'un revendeur). Cette double porte — détaillée en section 3 — évite de réduire la vente directe à ses formes les plus institutionnalisées et reconnaît l'importance des marchés comme premier lieu de contact direct avec les agriculteurs.
 
-## 2.2 Du canal isolé au portefeuille de canaux
+## 2.2 L'approvisionnement alimentaire comme comportement omnicanal
 
-La littérature en marketing de la distribution a montré de longue date que les consommateurs ne sont pas fidèles à un format unique mais **fréquentent simultanément plusieurs enseignes et formats** (*cross-shopping*), répartissant leurs achats selon une logique de complémentarité [@volle2012; @filserplichon2004]. Le ménage gère ainsi un **portefeuille de canaux**, c'est-à-dire un ensemble de lieux d'achat mobilisés pour des fonctions différentes : l'hypermarché pour le gros des courses et les prix, l'artisan pour la qualité de certains produits, le marché pour le frais et le plaisir, etc.
+Un premier apport consiste à lire l'approvisionnement des ménages avec les outils du **comportement omnicanal**, largement développés en distribution mais rarement appliqués à l'alimentation locale. La littérature a d'abord établi que les consommateurs ne sont pas fidèles à un format unique : ils **combinent plusieurs canaux** pour des fonctions distinctes (*multichannel customer management*), ce qui pose des enjeux spécifiques de coordination et d'allocation [@neslin2006]. Le passage du *multicanal* à l'*omnicanal* [@verhoef2015] a ensuite déplacé l'attention de la juxtaposition des canaux vers leur **intégration** dans un parcours d'achat unifié, où le consommateur arbitre en continu entre points de vente selon le produit, le moment et le contexte. En France, les travaux sur le *cross-shopping* et la valeur du magasinage [@volle2012; @filserplichon2004] avaient déjà documenté cette pluralité des fréquentations.
 
-Appliqué aux circuits courts, ce cadre suggère que la vente directe n'est pas en concurrence frontale avec la grande distribution, mais qu'elle **occupe une fonction spécifique** dans le portefeuille — typiquement, l'approvisionnement de certaines catégories de produits (légumes, œufs, fromages, viande) valorisées pour leur fraîcheur ou leur origine. La question n'est alors plus « pourquoi acheter en vente directe ? » mais « **quelle part et quelle fonction** la vente directe occupe-t-elle dans un portefeuille plus large ? ».
+Transposé aux circuits courts, ce cadre suggère que la vente directe n'entre pas en concurrence frontale avec la grande distribution : elle **occupe une fonction particulière** dans un portefeuille de canaux — l'approvisionnement de certaines catégories de produits (légumes, œufs, fromages, viande) valorisées pour leur fraîcheur ou leur origine. La question pertinente n'est alors plus « pourquoi acheter en vente directe ? », mais « **quelle part et quelle fonction** la vente directe occupe-t-elle dans le portefeuille du ménage ? ». À notre connaissance, l'application explicite du cadre omnicanal à l'alimentation directe et locale reste inédite ; c'est le premier déplacement que propose l'article.
 
-## 2.3 Hypothèses
+## 2.3 Consommation durable : de l'intention déclarée à l'allocation budgétaire
 
-De ce cadre découlent deux hypothèses, que l'analyse empirique met à l'épreuve.
+La littérature sur la **consommation alimentaire durable** a massivement documenté les motivations d'achat en circuit court — qualité, fraîcheur, confiance, soutien à l'économie locale, préoccupation environnementale et éthique [@dubuisson2011; @birch2018]. Plusieurs travaux mobilisent la théorie du comportement planifié pour relier attitudes, normes et intentions à l'achat, en insistant sur le rôle central de la **confiance** envers le producteur [@giampietri2016; @giampietri2018]. Ces recherches partagent toutefois une limite bien identifiée : le fameux **écart entre attitude et comportement** (*attitude-behaviour gap*), selon lequel des attitudes très favorables ne se traduisent pas mécaniquement en achats effectifs [@vermeir2006]. La revue de @feldmann2015 précise d'ailleurs que, contrairement au bio, l'alimentation locale n'est pas d'abord perçue comme chère : les principaux freins sont l'**inconvenance** et le **manque de disponibilité** — soit des obstacles pratiques plus que financiers.
+
+Or la plupart de ces études mesurent des **intentions**, des **attitudes** ou un **consentement à payer** hypothétique, rarement des comportements d'achat effectifs. La méta-analyse de @mustapa2025 estime ainsi à +34,5 % la prime moyenne que les consommateurs se déclarent prêts à payer pour un produit de circuit court — un chiffre à confronter à la part de budget réellement consacrée. Le second déplacement de l'article consiste précisément à quitter le registre déclaratif pour mesurer l'**allocation budgétaire réelle** entre canaux : combien, concrètement, le ménage consacre-t-il à la vente directe, et non combien il dit vouloir y consacrer.
+
+## 2.4 Segmenter les acheteurs de circuits courts
+
+Un troisième courant cherche à **segmenter** les consommateurs de produits locaux ou de circuits courts. Les revues récentes montrent que cette segmentation s'appuie le plus souvent sur des attitudes, des motivations ou des variables sociodémographiques [@feldmann2015]. La revue systématique de @herzig2025 conclut que ces variables sociodémographiques, bien que fréquemment étudiées, expliquent finalement peu le comportement, au profit de facteurs contextuels, informationnels et relationnels ; la méta-analyse de @mustapa2025 identifie de son côté des effets hétérogènes du genre, de l'âge, de l'éducation et de la région sur le consentement à payer. Ces approches segmentent donc les individus par leurs **dispositions** déclarées.
+
+L'article propose une segmentation d'une autre nature : fondée non sur des attitudes mais sur le **portefeuille de canaux effectivement mobilisé** et l'**allocation réelle de budget** qui en résulte. La typologie construite en section 4 classe les ménages selon *ce qu'ils font* — la combinaison et l'intensité de fréquentation de treize canaux — plutôt que selon *ce qu'ils déclarent penser*. C'est le troisième déplacement, complémentaire des deux précédents.
+
+## 2.5 Positionnement et hypothèses
+
+**Tableau 1.** Positionnement théorique de l'article.
+
+| Courant mobilisé | Références principales | Ce que l'article en retient | Déplacement proposé |
+|------------------|------------------------|------------------------------|----------------------|
+| Comportement omnicanal | Neslin et al. (2006) ; Verhoef et al. (2015) | Le consommateur combine des canaux aux fonctions distinctes | Application inédite à l'alimentation locale et directe |
+| Consommation alimentaire durable | Vermeir & Verbeke (2006) ; Giampietri et al. (2016, 2018) ; Birch et al. (2018) | Attitudes favorables mais écart à l'acte (*attitude-behaviour gap*) | Du déclaratif à l'**allocation budgétaire réelle** |
+| Segmentation du consommateur | Feldmann & Hamm (2015) ; Herzig & Zander (2025) ; Mustapa & Kallas (2025) | Profils fondés sur attitudes, motivations, consentement à payer | Segmentation par le **portefeuille de canaux** et le budget réel |
+| Circuits courts (UE / France) | Kneafsey et al. (2013) ; Chiffoleau (2019, 2020) ; Praly et al. (2014) | État socio-économique et formes d'organisation | Mesure représentative nationale actualisée, **côté ménage** |
+
+De ce positionnement découlent trois hypothèses, que l'analyse empirique met à l'épreuve.
 
 - **H1 — Complémentarité, non substitution.** La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée, avec une diffusion potentiellement large mais une part de budget faible.
 
 - **H2 — Transversalité sociale.** Parce qu'elle remplit une fonction d'appoint accessible par de multiples lieux (dont les marchés), la pratique de la vente directe est **faiblement déterminée** par le profil sociodémographique : elle traverse les catégories plutôt qu'elle ne distingue un groupe social.
+
+- **H3 — Écart intention/budget.** Conformément à l'*attitude-behaviour gap*, l'adhésion déclarée à la vente directe (motivations, diffusion) est nettement plus forte que son poids dans le budget effectif : beaucoup l'essaient, peu l'installent.
 
 # 3. Méthode
 
@@ -66,7 +91,7 @@ La qualité des données est élevée : les variables clés (sexe, âge, CSP, bu
 
 ## 3.2 Variables
 
-**Fréquentation des canaux.** Pour chacun des treize canaux ou modalités d'achat (tableau 1), le répondant a indiqué sa fréquence d'achat sur une échelle ordinale en sept positions, de « plusieurs fois par semaine » à « jamais ». Nous en dérivons deux indicateurs : la **pénétration** (le ménage fréquente le canal, c'est-à-dire ne répond pas « jamais ») et l'**usage régulier** (au moins une fois par mois).
+**Fréquentation des canaux.** Pour chacun des treize canaux ou modalités d'achat (tableau 2), le répondant a indiqué sa fréquence d'achat sur une échelle ordinale en sept positions, de « plusieurs fois par semaine » à « jamais ». Nous en dérivons deux indicateurs : la **pénétration** (le ménage fréquente le canal, c'est-à-dire ne répond pas « jamais ») et l'**usage régulier** (au moins une fois par mois).
 
 **Part de budget.** Pour chaque canal fréquenté, le répondant a estimé la part (en %) de son budget alimentaire mensuel qui y est consacrée.
 
@@ -82,9 +107,9 @@ Le plan d'analyse comprend six volets. (A1) Une **description du portefeuille** 
 
 ## 4.1 Le portefeuille de canaux des ménages
 
-Les ménages français mobilisent en moyenne **6,8 canaux** d'approvisionnement différents. Le tableau 1 et la figure 1 en révèlent la hiérarchie. L'**hypermarché-supermarché** domine sans partage : il est fréquenté par 99,1 % des ménages, dont 97,5 % au moins une fois par mois, et capte à lui seul **58,5 % du budget** alimentaire moyen. Viennent ensuite, par leur poids budgétaire, le **hard discount** (15,6 % du budget), les **artisans et commerçants spécialisés** (boucher, boulanger, primeur : 7,6 %) et le **marché** (4,8 %). Les canaux de circuits courts proprement dits — vente directe aux agriculteurs (1,5 %), paniers via intermédiaire (0,4 %) — ne pèsent qu'à la marge.
+Les ménages français mobilisent en moyenne **6,8 canaux** d'approvisionnement différents. Le tableau 2 et la figure 1 en révèlent la hiérarchie. L'**hypermarché-supermarché** domine sans partage : il est fréquenté par 99,1 % des ménages, dont 97,5 % au moins une fois par mois, et capte à lui seul **58,5 % du budget** alimentaire moyen. Viennent ensuite, par leur poids budgétaire, le **hard discount** (15,6 % du budget), les **artisans et commerçants spécialisés** (boucher, boulanger, primeur : 7,6 %) et le **marché** (4,8 %). Les canaux de circuits courts proprement dits — vente directe aux agriculteurs (1,5 %), paniers via intermédiaire (0,4 %) — ne pèsent qu'à la marge.
 
-**Tableau 1.** Pénétration, usage régulier et part de budget des treize canaux (N = 1 025).
+**Tableau 2.** Pénétration, usage régulier et part de budget des treize canaux (N = 1 025).
 
 | # | Canal | Pénétration | Réguliers | Part budget |
 |---|-------|-------------|-----------|-------------|
@@ -110,9 +135,9 @@ Ce premier tableau dessine une structure en **noyau et périphérie** : un noyau
 
 ## 4.2 La place de la vente directe : un paradoxe d'ampleur
 
-En appliquant notre définition à double porte, **65,0 % des ménages** (666 sur 1 025) pratiquent une forme de vente directe (tableau 2). Cette proportion, élevée, masque toutefois une réalité contrastée. Prise canal par canal, l'achat direct aux agriculteurs (canal 7) concerne 49,7 % des ménages, mais seulement 17,3 % de façon régulière (au moins mensuelle ; figure 2). L'apport de la seconde porte — l'achat direct au producteur sur les marchés — est substantiel : elle ajoute **157 ménages** qui pratiquent la vente directe sur les marchés sans recourir au canal dédié, soit un quart de la population concernée.
+En appliquant notre définition à double porte, **65,0 % des ménages** (666 sur 1 025) pratiquent une forme de vente directe (tableau 3). Cette proportion, élevée, masque toutefois une réalité contrastée. Prise canal par canal, l'achat direct aux agriculteurs (canal 7) concerne 49,7 % des ménages, mais seulement 17,3 % de façon régulière (au moins mensuelle ; figure 2). L'apport de la seconde porte — l'achat direct au producteur sur les marchés — est substantiel : elle ajoute **157 ménages** qui pratiquent la vente directe sur les marchés sans recourir au canal dédié, soit un quart de la population concernée.
 
-**Tableau 2.** Décomposition de la pratique de vente directe.
+**Tableau 3.** Décomposition de la pratique de vente directe.
 
 | Composante | n | % échantillon |
 |------------|---|---------------|
@@ -125,15 +150,15 @@ En appliquant notre définition à double porte, **65,0 % des ménages** (666 su
 
 **Figure 2.** Fréquence d'achat direct aux agriculteurs (canal 7). La moitié des ménages n'y recourt jamais ; les usages réguliers sont minoritaires.
 
-Le contraste entre cette **diffusion large** (deux ménages sur trois) et la **faible part de budget** (1,5 % pour le canal dédié) constitue le résultat central de l'article. Il confirme l'hypothèse H1 : la vente directe n'est pas, pour l'immense majorité des ménages, un canal de substitution à la grande distribution, mais un **complément ciblé**, mobilisé occasionnellement et pour une fraction réduite des dépenses. La vente directe est, en somme, **largement essayée mais rarement intensive**.
+Le contraste entre cette **diffusion large** (deux ménages sur trois) et la **faible part de budget** (1,5 % pour le canal dédié) constitue le résultat central de l'article. Il confirme l'hypothèse H1 : la vente directe n'est pas, pour l'immense majorité des ménages, un canal de substitution à la grande distribution, mais un **complément ciblé**, mobilisé occasionnellement et pour une fraction réduite des dépenses. Il valide aussi H3 : l'adhésion déclarée (65 % de pratiquants) contraste fortement avec le poids budgétaire réel (~1,5 %) — une manifestation directe de l'*attitude-behaviour gap*. La vente directe est, en somme, **largement essayée mais rarement intensive**.
 
 > *Caveat de mesure.* La part de budget « directe » réalisée sur les marchés n'est pas isolable : la question budgétaire agrège, pour le marché, les achats au producteur et au revendeur. La part de 1,5 % se rapporte donc au seul canal dédié (achat direct aux agriculteurs hors marché) et **sous-estime** le poids budgétaire total de la vente directe. L'ordre de grandeur — marginal — n'en est pas affecté.
 
 ## 4.3 Cinq stratégies d'approvisionnement
 
-L'ACM suivie de la CAH fait émerger **cinq stratégies d'approvisionnement** distinctes (figure 3), que l'examen conjoint de la pénétration et de l'usage régulier des canaux permet de caractériser (tableau 3). Nous les présentons par effectif décroissant.
+L'ACM suivie de la CAH fait émerger **cinq stratégies d'approvisionnement** distinctes (figure 3), que l'examen conjoint de la pénétration et de l'usage régulier des canaux permet de caractériser (tableau 4). Nous les présentons par effectif décroissant.
 
-**Tableau 3.** Les cinq stratégies d'approvisionnement (classes numérotées par effectif décroissant). La colonne **% VD** applique la définition inclusive (achat direct au moins occasionnel) ; **% VD rég.** ne retient que l'achat direct régulier au producteur (canal 7 au moins mensuel), ce qui sépare l'**essai ponctuel** de l'**usage installé**.
+**Tableau 4.** Les cinq stratégies d'approvisionnement (classes numérotées par effectif décroissant). La colonne **% VD** applique la définition inclusive (achat direct au moins occasionnel) ; **% VD rég.** ne retient que l'achat direct régulier au producteur (canal 7 au moins mensuel), ce qui sépare l'**essai ponctuel** de l'**usage installé**.
 
 | Classe | n | Canaux réguliers (moy.) | Budget moyen | % VD | % VD rég. | Signature |
 |--------|---|-------------------------|--------------|------|-----------|-----------|
@@ -159,9 +184,9 @@ Les classes diffèrent significativement par la catégorie socioprofessionnelle 
 
 ## 4.5 Des déterminants sociaux ténus
 
-La régression logistique (tableau 4, figure 4) confirme et nuance ce constat. Le modèle explique **très peu** de la variance de la pratique de vente directe (pseudo-R² de McFadden = 0,022). Deux effets seulement ressortent nettement : appartenir aux **cadres et professions libérales** multiplie par 2,16 les chances de pratiquer la vente directe (p = 0,003), et un **budget alimentaire élevé** l'accroît modérément (OR = 1,18 par écart-type, p = 0,028). Les professions intermédiaires sont également au-dessus de la référence (OR = 1,60, p = 0,027). En revanche, le sexe, l'âge et la taille d'agglomération n'ont pas d'effet significatif.
+La régression logistique (tableau 5, figure 4) confirme et nuance ce constat. Le modèle explique **très peu** de la variance de la pratique de vente directe (pseudo-R² de McFadden = 0,022). Deux effets seulement ressortent nettement : appartenir aux **cadres et professions libérales** multiplie par 2,16 les chances de pratiquer la vente directe (p = 0,003), et un **budget alimentaire élevé** l'accroît modérément (OR = 1,18 par écart-type, p = 0,028). Les professions intermédiaires sont également au-dessus de la référence (OR = 1,60, p = 0,027). En revanche, le sexe, l'âge et la taille d'agglomération n'ont pas d'effet significatif.
 
-**Tableau 4.** Régression logistique de la pratique de vente directe (extraits ; référence : homme, 20-24 ans, employés/ouvriers).
+**Tableau 5.** Régression logistique de la pratique de vente directe (extraits ; référence : homme, 20-24 ans, employés/ouvriers).
 
 | Variable | Odds-ratio | IC 95 % | p |
 |----------|-----------|---------|---|
@@ -189,7 +214,7 @@ Interrogés sur leurs raisons d'acheter sur les marchés (lieu de contact direct
 
 ## 5.1 La vente directe comme complément diffus
 
-Le principal apport de cet article tient à la **requalification** de la place de la vente directe. Les travaux existants, centrés sur les adeptes ou sur les dispositifs, pouvaient laisser penser à une pratique relativement circonscrite et engagée. Lue à l'échelle du portefeuille de canaux et sur données représentatives, la vente directe se révèle au contraire **largement diffusée mais peu intensive** : essayée par deux ménages sur trois, mobilisée régulièrement par moins d'un sur cinq, et marginale dans le budget. Elle fonctionne comme un **complément ciblé** — vraisemblablement adossé à certaines catégories de produits et à des occasions particulières — et non comme une alternative globale à la grande distribution. Ce constat rejoint l'idée, présente dans la littérature sur les réseaux alimentaires alternatifs, d'une coexistence plutôt que d'une rupture entre circuits [@goodman2002; @sage2003], mais il la quantifie précisément du point de vue du consommateur. Il fait également écho aux travaux récents qui, après l'espoir suscité par la crise sanitaire de voir les circuits courts monter en puissance, constatent une **normalisation** : leur contribution durable à la transition alimentaire suppose de dépasser le statut d'appoint [@chiffoleau2020].
+Le principal apport de cet article tient à la **requalification** de la place de la vente directe. Les travaux existants, centrés sur les adeptes ou sur les dispositifs, pouvaient laisser penser à une pratique relativement circonscrite et engagée. Lue à l'échelle du portefeuille de canaux et sur données représentatives, la vente directe se révèle au contraire **largement diffusée mais peu intensive** : essayée par deux ménages sur trois, mobilisée régulièrement par moins d'un sur cinq, et marginale dans le budget. Elle fonctionne comme un **complément ciblé** — vraisemblablement adossé à certaines catégories de produits et à des occasions particulières — et non comme une alternative globale à la grande distribution. Ce constat rejoint l'idée, présente dans la littérature sur les réseaux alimentaires alternatifs, d'une coexistence plutôt que d'une rupture entre circuits [@goodman2002; @sage2003], mais il la quantifie précisément du point de vue du consommateur. Il donne surtout une mesure inédite de l'*attitude-behaviour gap* [@vermeir2006] : alors que la méta-analyse de @mustapa2025 chiffre à +34,5 % la prime que les consommateurs se déclarent prêts à payer pour un produit de circuit court, la part de budget réellement consacrée à la vente directe reste marginale. L'écart entre l'intention affichée et l'allocation effective n'est pas anecdotique — il est au cœur du phénomène. Il fait également écho aux travaux récents qui, après l'espoir suscité par la crise sanitaire de voir les circuits courts monter en puissance, constatent une **normalisation** : leur contribution durable à la transition alimentaire suppose de dépasser le statut d'appoint [@chiffoleau2020].
 
 ## 5.2 Une transversalité sociale qui interroge les politiques publiques
 
@@ -211,19 +236,28 @@ Plusieurs limites doivent être soulignées. D'abord, l'enquête est **transvers
 
 # Références
 
-> ✅ **Vérifiées le 2026-06-29** (WebSearch → éditeurs/Wiley/Cairn/HAL/MDPI/Springer). 3 corrections appliquées (⟲) + 2 références récentes 2020/2025 ajoutées pour actualiser la revue (⊕).
+> ✅ **Vérifiées le 2026-06-29 / 2026-07-07** (WebSearch → éditeurs/Wiley/Cairn/HAL/MDPI/Springer/JRC). 3 corrections (⟲) et 11 références ajoutées pour l'actualisation et l'enrichissement de la revue (⊕).
 
+- Birch, D., Memery, J., & De Silva Kanakaratne, M. (2018). The mindful consumer: Balancing egoistic and altruistic motivations to purchase local food. *Journal of Retailing and Consumer Services*, 40, 221-228. ⊕
 - Chiffoleau, Y. (2019). *Les circuits courts alimentaires : entre marché et innovation sociale*. Toulouse : Érès. [ISBN 978-2-7492-6234-5]
-- Chiffoleau, Y., & Dourian, T. (2020). Sustainable food supply chains: Is shortening the answer? A literature review for a research and innovation agenda. *Sustainability*, 12(23), 9831. [doi:10.3390/su12239831] ⊕ *(actualisation)*
+- Chiffoleau, Y., & Dourian, T. (2020). Sustainable food supply chains: Is shortening the answer? A literature review for a research and innovation agenda. *Sustainability*, 12(23), 9831. [doi:10.3390/su12239831] ⊕
 - Dubuisson-Quellier, S., Lamine, C., & Le Velly, R. (**2011**). Citizenship and consumption: Mobilisation in alternative food systems in France. *Sociologia Ruralis*, 51(3), 304-323. ⟲ *(année corrigée 2009→2011 ; pages ajoutées)*
+- Feldmann, C., & Hamm, U. (2015). Consumers' perceptions and preferences for local food: A review. *Food Quality and Preference*, 40, 152-164. [doi:10.1016/j.foodqual.2014.09.014] ⊕
 - Filser, M., & Plichon, V. (**2004**). La valeur du comportement de magasinage : statut théorique et apports au positionnement de l'enseigne. *Revue Française de Gestion*, 30(148), 29-43. ⟲ *(remplace « Filser 2003, Décisions Marketing », référence non confirmée)*
+- Giampietri, E., Finco, A., & Del Giudice, T. (2016). Exploring consumers' behaviour towards short food supply chains. *British Food Journal*, 118(3), 618-631. ⊕
+- Giampietri, E., Verneau, F., Del Giudice, T., Carfora, V., & Finco, A. (2018). A theory of planned behaviour perspective for investigating the role of trust in consumer purchasing decision related to short food supply chains. *Food Quality and Preference*, 64, 160-166. [doi:10.1016/j.foodqual.2017.09.012] ⊕
 - Goodman, D., & DuPuis, E. M. (2002). Knowing food and growing food: Beyond the production–consumption debate in the sociology of agriculture. *Sociologia Ruralis*, 42(1), 5-22. [doi:10.1111/1467-9523.00199]
-- Herzig, J., & Zander, K. (2025). Determinants of consumer behavior in short food supply chains: A systematic literature review. *Agricultural and Food Economics*, 13(1), 1-40. [doi:10.1186/s40100-025-00370-w] ⊕ *(actualisation)*
+- Herzig, J., & Zander, K. (2025). Determinants of consumer behavior in short food supply chains: A systematic literature review. *Agricultural and Food Economics*, 13(1), 1-40. [doi:10.1186/s40100-025-00370-w] ⊕
+- Kneafsey, M., Venn, L., Schmutz, U., Balázs, B., Trenchard, L., Eyden-Wood, T., Bos, E., Sutton, G., & Blackett, M. (2013). *Short food supply chains and local food systems in the EU: A state of play of their socio-economic characteristics*. JRC Scientific and Policy Reports, Commission européenne. ⊕
 - Lamine, C., & Perrot, N. (2008). *Les AMAP : un nouveau pacte entre producteurs et consommateurs ?* Gap : Yves Michel.
 - Maréchal, G. (dir.) (2008). *Les circuits courts alimentaires : bien manger dans les territoires*. Dijon : Éducagri. [doi:10.3917/edagri.colle.2008.01]
 - Ministère de l'Agriculture et de l'Alimentation (2009). *Plan d'action pour développer les circuits courts* (plan Barnier, avril 2009).
+- Mustapa, M. A. A., & Kallas, Z. (2025). Meta-analysis of consumer willingness to pay for short food supply chain products. *Global Challenges*, 9(3). [doi:10.1002/gch2.202400154] ⊕
+- Neslin, S. A., Grewal, D., Leghorn, R., Shankar, V., Teerling, M. L., Thomas, J. S., & Verhoef, P. C. (2006). Challenges and opportunities in multichannel customer management. *Journal of Service Research*, 9(2), 95-112. [doi:10.1177/1094670506293559] ⊕
 - Praly, C., Chazoule, C., Delfosse, C., & Mundler, P. (2014). Les circuits de proximité, cadre d'analyse de la relocalisation des circuits alimentaires. *Géographie, économie, société*, 16(4), 455-478. ⟲ *(titre et revue corrigés ; n'était pas dans « Cahiers Agricultures »)*
 - Sage, C. (2003). Social embeddedness and relations of regard: Alternative 'good food' networks in south-west Ireland. *Journal of Rural Studies*, 19(1), 47-60.
+- Verhoef, P. C., Kannan, P. K., & Inman, J. J. (2015). From multi-channel retailing to omni-channel retailing. *Journal of Retailing*, 91(2), 174-181. [doi:10.1016/j.jretai.2015.02.005] ⊕
+- Vermeir, I., & Verbeke, W. (2006). Sustainable food consumption: Exploring the consumer 'attitude-behavioral intention' gap. *Journal of Agricultural and Environmental Ethics*, 19(2), 169-194. [doi:10.1007/s10806-005-5485-3] ⊕
 - Volle, P. (2012). *Stratégie clients : points de vue d'experts sur le management de la relation client*. Paris : Pearson. *(sous-titre corrigé)*
 
 ---
