@@ -150,4 +150,17 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Fichiers :** article (6 548 mots), DOCX + PPTX régénérés.
 
 ---
+
+## 2026-07-07 — Reformatage pour la revue *Décisions Marketing*
+**Demande :** soumettre à DM ; instructions aux auteurs + article exemple (« le bio, très peu pour moi ») fournis.
+**Analyse des normes DM :** < 8 000 mots, ≤ 20 pages, ≤ 35 réfs, TNR 12 / interligne 1,5 / marges 2,5 cm ; résumé structuré en 6 points + abstract EN ; titres thématiques (pas « 1. Introduction ») ; encadrés attendus ; références style RAM/Harvard (« et » pas « & », revue en italique, vol(n): pages) ; figures N&B sans dégradés ; orientation décision + recommandations managériales ; anonymat double aveugle.
+**Choix par défaut (AskUserQuestion en échec technique) :** titre « Beaucoup l'essaient, peu l'installent » ; cibles managériales = producteurs/réseaux VD + collectivités (PAT) prioritaires.
+**Produit :**
+- `outputs/submitted/manuscrit_DM.md` + `.docx` (~4 130 mots ; titres thématiques ; résumé 6 points + abstract ; 3 encadrés ; section « Ce que les acteurs peuvent en faire » ; réfs style RAM)
+- `outputs/submitted/page_de_titre_DM.md` (séparée, anonymat)
+- `outputs/submitted/reference_dm.docx` (gabarit TNR 12 / 1,5 / 2,5 cm)
+- `code/06_figures_nb.py` → 5 figures N&B (figures/*/*_nb.*)
+**À faire :** valider par l'utilisateur (titre, cibles) ; puis Stade 2.5 intégrité + revue Stade 3.
+
+---
 *(Les prochains échanges seront ajoutés ici automatiquement)*

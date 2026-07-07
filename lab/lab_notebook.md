@@ -28,6 +28,9 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-06-29 | Correction typologie (retour utilisateur)  | Terminé  | Ajout colonne « VD régulière » ; multi-canal conv. = 100% VD inclusif mais 19% régulier (essai large ≠ engagement) ; classes renumérotées ; libellé « évitent » corrigé |
 | 2026-07-07 | Diaporama copil (PPTX)                     | Terminé  | 10 diapos, 2 figures, 3 leviers d'action ; outputs/presentations/ |
 | 2026-07-07 | Expansion revue de littérature (retour utilisateur) | Terminé | §2 réécrit en 4 sous-sections + tableau de positionnement ; +9 réfs vérifiées (omnicanal, conso durable, segmentation) ; H3 ajoutée ; article 5120→6310 mots |
+| 2026-07-07 | Clarification métrique budget (1,5% vs 8,5%) | Terminé | Deux échelles présentées ; note de méthode §3.2 |
+| 2026-07-07 | Ciblage revue : Décisions Marketing         | En cours | Instructions + article exemple analysés ; manuscrit reformaté au format DM |
+| 2026-07-07 | Manuscrit format DM produit                 | Terminé  | Titre accroche, résumé 6 points + abstract EN, 3 encadrés, section implications managériales, réfs style RAM, figures N&B, page de titre séparée (anonymat) |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
