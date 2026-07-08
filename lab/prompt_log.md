@@ -184,3 +184,8 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Tableau 3 / Figure 3 redessinés** : 4 modalités (base unique = interrogés), légende au-dessus, comparaison à 3 circuits conventionnels (boulanger/boucher/primeur) ; AMAP traitée à part.
 **Diplôme (Q240)** : ajouté aux déterminants. Classes × diplôme p<0,001 (intensifs/explorateurs très diplômés) ; régression : bac+3+ OR 1,89 (p=0,003), absorbe l'effet cadres (→ p=0,07). Éducation = principal gradient, modèle toujours faible (pseudo-R² 0,029). Figure 5 régénérée.
 **Fichiers** : code/02 (diplôme), code/06 (régression+diplôme), code/07 (figure récence), code/09 (analyses) ; manuscrit ~6530 mots ; DOCX régénéré.
+
+## 2026-07-07 — Deux ajouts validés (abstract + discussion diplôme)
+- Abstract (Résultats) : nuance ajoutée « le seul gradient net étant le diplôme (plus que la CSP) ».
+- §5.2 « cibler large » : développement du point diplôme>CSP → frein informationnel/culturel (pas financier), relié au déficit de notoriété (46% ignorent l'AMAP). Encadré 3 reco 3 enrichie.
+- Manuscrit ~6650 mots ; DOCX régénéré.
