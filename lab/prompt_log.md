@@ -215,3 +215,6 @@ Contrôle du **texte révisé** (pas de la seule lettre de réponse) : **12/12 p
 **Décision révisée : Acceptation sous réserve de modifications mineures** (révision mineure). Rigueur méthodo 5,5→7,5.
 4 points résiduels mineurs (m1 cohérence diplôme, m2 borne haute conversion, m3 budget mots, m4 poids classe C5). **m1+m2 appliqués** dans le manuscrit (Encadré 3 + reco 3 : gradient diplôme « à l'essai, pas à l'adoption » ; projection 4 % qualifiée de borne haute). m3/m4 déjà couverts.
 **Livrables** : reviews/re_revue_verification_DM.md (+.docx). Manuscrit 7915 mots. Prochain : Stade 4.5 (intégrité finale).
+
+## 2026-07-08 — Stade 4.5 (intégrité finale) — PASS
+Script d'audit `code/11_audit_integrite.py` : **124/124 chiffres du manuscrit recalculés depuis les données brutes = PASS** (0 écart). Intégrité citations↔références : 22 réfs (≤35), **aucune orpheline** après 2 corrections — Chiffoleau & Dourian (2020) désormais citée ; note 1 « FranceAgriMer » renvoyée à Agreste/Enthoven. **7 modes de défaillance IA** tous franchis (fabrication, sur-généralisation, dérive de citation, p-hacking, biais de confirmation, reproductibilité, incertitude). RGPD : `git ls-files data/` = aucun fichier de données suivi. Verdict : **PASS, finalisation autorisée**. Manuscrit 7932 mots. Livrable : reviews/integrite_finale_DM.md (+.docx).
