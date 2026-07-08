@@ -189,3 +189,13 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 - Abstract (Résultats) : nuance ajoutée « le seul gradient net étant le diplôme (plus que la CSP) ».
 - §5.2 « cibler large » : développement du point diplôme>CSP → frein informationnel/culturel (pas financier), relié au déficit de notoriété (46% ignorent l'AMAP). Encadré 3 reco 3 enrichie.
 - Manuscrit ~6650 mots ; DOCX régénéré.
+
+## 2026-07-08 — « lance la revue par les pairs » (Stade 3)
+**Demande** : lancer la revue par les pairs simulée du manuscrit DM.
+**Livrable** : `reviews/revue_par_les_pairs_DM.md` (+ `.docx`) — panel de 5 relecteurs calibrés *Décisions Marketing* :
+- **Phase 0** : configuration du panel (RC, R1 méthodo, R2 domaine circuits courts, R3 managérial, AD avocat du diable).
+- **Phase 1** : 5 évaluations indépendantes, notes 1–10 sur 7 critères DM. Relecteurs en **lecture seule** (manuscrit non modifié).
+- **Phase 2** : lettre de décision éditoriale + synthèse des notes + feuille de route priorisée (9 actions).
+**Décision** : **Révision majeure**. Point bas = rigueur méthodo (moy. 5,5/10). 6 exigences bloquantes : (1) diagnostics de partition typologie (silhouette/pseudo-F, n par classe, stabilité 4/5/6) ; (2) n+IC dans tous les tableaux ; (3) tableau de sensibilité définition VD × dénominateur (65%/17% × pop/réguliers) ; (4) re-tester diplôme sur VD régulière + colinéarité ; (5) distinguer intermittence vs abandon + saisonnalité ; (6) n+format question AMAP (« 65% abandon », « 46% ignorent AMAP ») + biais producteur/revendeur porte marché. 3 non bloquantes : levier×segment, chiffrer conversion, nuancer « inédit ».
+**Avocat du diable** : 3 attaques (paradoxe = artefact de dénominateurs ; typologie = intensité déguisée ; essai→adoption = saisonnalité), auto-scoring 4/5 chacune, aucune concession — passent en exigences.
+**Note** : révision faisable sans nouvelle collecte (analyses sur données existantes). Prochaine étape = Stade 4 (révision).

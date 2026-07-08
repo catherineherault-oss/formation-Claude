@@ -1,5 +1,5 @@
 # Cahier de laboratoire — [Nom du projet]
-> Dernière mise à jour : 2026-06-29
+> Dernière mise à jour : 2026-07-08
 
 ## Synthèse de la recherche en cours
 *(Résumé de 3-5 phrases de ce qu'on cherche à comprendre ou produire)*
@@ -33,6 +33,8 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-07 | Manuscrit format DM produit                 | Terminé  | Titre accroche, résumé 6 points + abstract EN, 3 encadrés, section implications managériales, réfs style RAM, figures N&B, page de titre séparée (anonymat) |
 | 2026-07-07 | Ré-enrichissement manuscrit DM              | Terminé  | Restauration substance (cadre + positionnement, managérial, profils classes) : 4136→5618 mots |
 | 2026-07-07 | Analyse « essai vs ancrage » (retour utilisateur) | Terminé | Récence d'achat par forme (Q22/30/38/46/53/61/70) : 54% des déclarants VD ont acheté le mois écoulé ; abandon jusqu'à 65% (AMAP). Nouvelle sous-section + Tableau 3 + Figure 3 ; 6231 mots |
+| 2026-07-08 | Révisions auteur round 2 (7 points) | Terminé | Cadre déclaratif (WTP Mustapa), Tableau 3 clarifié + note + comparateurs conventionnels, titre « adoptent », 5 stratégies nommées + n canaux, diplôme ajouté (Q240) aux croisements et à la régression (OR bac+3 = 1,89) ; manuscrit ~6744 mots |
+| 2026-07-08 | Stade 3 REVUE PAR LES PAIRS simulée | Terminé | Panel 5 relecteurs DM (RC, méthodo, domaine, managérial, avocat du diable). Décision : **Révision majeure**. Point bas = rigueur méthodo 5,5/10. 6 exigences bloquantes (diagnostics typologie, n+IC, sensibilité définition/dénominateur, diplôme sur VD régulière, intermittence vs abandon, n AMAP) + 3 non bloquantes. reviews/revue_par_les_pairs_DM.md (+.docx) |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
