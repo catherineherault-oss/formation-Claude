@@ -199,3 +199,13 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 **Décision** : **Révision majeure**. Point bas = rigueur méthodo (moy. 5,5/10). 6 exigences bloquantes : (1) diagnostics de partition typologie (silhouette/pseudo-F, n par classe, stabilité 4/5/6) ; (2) n+IC dans tous les tableaux ; (3) tableau de sensibilité définition VD × dénominateur (65%/17% × pop/réguliers) ; (4) re-tester diplôme sur VD régulière + colinéarité ; (5) distinguer intermittence vs abandon + saisonnalité ; (6) n+format question AMAP (« 65% abandon », « 46% ignorent AMAP ») + biais producteur/revendeur porte marché. 3 non bloquantes : levier×segment, chiffrer conversion, nuancer « inédit ».
 **Avocat du diable** : 3 attaques (paradoxe = artefact de dénominateurs ; typologie = intensité déguisée ; essai→adoption = saisonnalité), auto-scoring 4/5 chacune, aucune concession — passent en exigences.
 **Note** : révision faisable sans nouvelle collecte (analyses sur données existantes). Prochaine étape = Stade 4 (révision).
+
+## 2026-07-08 — « lance le stade 4 » (révision du manuscrit)
+Toutes les exigences de la revue traitées **sur les données existantes** (nouveau script `code/10_revisions_stade4.py` → `articles/stade4_revisions.md`), sans nouvelle collecte.
+**(A) Typologie** : Encadré 2 enrichi (inertie ACM 62% sur 2 axes ; silhouette 0,24 à 5 classes vs 0,21/0,23 à 4/6) ; Tableau 5 avec effectifs bruts (624/249/79/47/26) + prudence n=26 ; réfutation « intensité déguisée » (profil régulier canal×classe : C5 seul sans hyper régulier).
+**(B) Sensibilité** : nouveau **Tableau 3** (définition × dénominateur) — paradoxe robuste ; IC de Wilson sur 65% / 49,7% / 17,3%.
+**(C) Intermittence vs abandon** : abandon vrai 15-19% (≠ 46% « pas ce mois ») ; terrain **septembre** (pleine saison → récence sur-estimée) ; AMAP Q46 sécurisée n=116, abandon 65% [56-73], notoriété 236/509.
+**(D/E) Managérial** : Tableau 6 levier × stratégie × acteur ; ordre de grandeur conversion 1,5% → ~4%.
+**Mineurs** : « inédit » → « rarement appliqué explicitement » ; accroche reliée à nos données (Fig. 6) ; comparaison artisans encadrée (bases 893 vs 509) ; colinéarité diplôme×CSP V=0,29, diplôme×budget ρ=0,06.
+**Intégrité** : résultat nouveau **surfacé honnêtement** — le diplôme prédit l'essai (OR 1,89, p=0,003) mais **pas** l'adoption régulière (OR 1,22, p=0,45) ; renforce la thèse « configuration d'usage > profil social ».
+**Livrables** : `manuscrit_DM.md/.docx` (7871 mots < 8000) + `reponse_aux_relecteurs_DM.md/.docx`. Prochain : Stade 3' (re-revue de vérification).

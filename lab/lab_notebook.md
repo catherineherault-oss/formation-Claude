@@ -1,5 +1,5 @@
 # Cahier de laboratoire — [Nom du projet]
-> Dernière mise à jour : 2026-07-08
+> Dernière mise à jour : 2026-07-08 (Stade 4)
 
 ## Synthèse de la recherche en cours
 *(Résumé de 3-5 phrases de ce qu'on cherche à comprendre ou produire)*
@@ -35,12 +35,13 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-07 | Analyse « essai vs ancrage » (retour utilisateur) | Terminé | Récence d'achat par forme (Q22/30/38/46/53/61/70) : 54% des déclarants VD ont acheté le mois écoulé ; abandon jusqu'à 65% (AMAP). Nouvelle sous-section + Tableau 3 + Figure 3 ; 6231 mots |
 | 2026-07-08 | Révisions auteur round 2 (7 points) | Terminé | Cadre déclaratif (WTP Mustapa), Tableau 3 clarifié + note + comparateurs conventionnels, titre « adoptent », 5 stratégies nommées + n canaux, diplôme ajouté (Q240) aux croisements et à la régression (OR bac+3 = 1,89) ; manuscrit ~6744 mots |
 | 2026-07-08 | Stade 3 REVUE PAR LES PAIRS simulée | Terminé | Panel 5 relecteurs DM (RC, méthodo, domaine, managérial, avocat du diable). Décision : **Révision majeure**. Point bas = rigueur méthodo 5,5/10. 6 exigences bloquantes (diagnostics typologie, n+IC, sensibilité définition/dénominateur, diplôme sur VD régulière, intermittence vs abandon, n AMAP) + 3 non bloquantes. reviews/revue_par_les_pairs_DM.md (+.docx) |
+| 2026-07-08 | Stade 4 RÉVISION du manuscrit | Terminé | Toutes exigences traitées sur données existantes (code/10_revisions_stade4.py). Diagnostics ACM (inertie 62% sur 2 axes, silhouette 0,24) + effectifs bruts (624/249/79/47/26) ; nouveau Tableau 3 sensibilité (paradoxe robuste aux dénominateurs) ; IC Wilson ; intermittence vs abandon vrai (15-19%) + terrain septembre ; AMAP n=116, abandon 65% [56-73] ; Tableau 6 levier×stratégie×acteur ; conversion 1,5%→~4%. **Résultat d'intégrité : diplôme prédit l'essai (OR 1,89) mais PAS l'adoption régulière (OR 1,22, p=0,45)** → surfacé. Manuscrit 6744→7871 mots (<8000). Lettre de réponse aux relecteurs. |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
 |---|-----------|----------------------------------|--------|
 | H1 | La vente directe occupe rarement la place de canal principal ; elle s'inscrit dans des stratégies de complémentarité ciblée | **Confirmée** — VD 65% pénétration mais 1,5% budget (canal 7) vs hyper 58% | articles/stade2_resultats.md |
-| H2 | L'usage de la vente directe est faiblement déterminé par le profil socio-démo (transversalité sociale) | **Soutenue** — pseudo-R²=0,022 ; seuls cadres/prof.lib (OR 2,16) et budget (OR 1,18) significatifs | A5, articles/stade2_resultats.md |
+| H2 | L'usage de la vente directe est faiblement déterminé par le profil socio-démo (transversalité sociale) | **Soutenue et renforcée** — pseudo-R²=0,029 (diplôme inclus) ; diplôme bac+3 OR 1,89 sur l'essai mais OR 1,22 (n.s.) sur l'adoption régulière → le social prédit à peine qui essaie, quasiment pas qui adopte | A5, code/10_revisions_stade4.py |
 | H3 | L'adhésion déclarée à la VD dépasse largement son poids budgétaire réel (attitude-behaviour gap) | **Confirmée** — 65% de pratiquants mais ~1,5% du budget ; contraste avec +34,5% de consentement à payer (Mustapa & Kallas 2025) | §2.5, §4.2, §5.1 |
 
 ## Choix effectués
