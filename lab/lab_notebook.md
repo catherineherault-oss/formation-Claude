@@ -1,5 +1,5 @@
 # Cahier de laboratoire — [Nom du projet]
-> Dernière mise à jour : 2026-07-08 (Stade 5)
+> Dernière mise à jour : 2026-07-08 (Stade 6 — pipeline clos)
 
 ## Synthèse de la recherche en cours
 *(Résumé de 3-5 phrases de ce qu'on cherche à comprendre ou produire)*
@@ -39,6 +39,7 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-08 | Stade 3′ RE-REVUE + retouches | Terminé | Vérif du texte révisé : 12/12 points RÉSOLUS ; avocat du diable désarmé (concessions 5/4/5). Décision : **acceptation sous réserve de modifs mineures**. m1+m2 appliqués (cohérence diplôme essai≠adoption ; projection borne haute). reviews/re_revue_verification_DM.md |
 | 2026-07-08 | Stade 4.5 INTÉGRITÉ FINALE | Terminé | **PASS**. Audit code/11 : 124/124 chiffres tracés aux données réelles. Citations↔réfs propres (22, 0 orpheline) après 2 corrections. 7 modes défaillance IA franchis. RGPD ok. reviews/integrite_finale_DM.md |
 | 2026-07-08 | Stade 5 FINALISATION | Terminé | Paquet de soumission DM assemblé (outputs/soumission_DM/) : manuscrit anonyme + page de titre séparée + checklist conformité + réponse relecteurs. Corps sans fuite d'identité. Toutes normes DM ✅. Champs auteur à compléter. |
+| 2026-07-08 | Stade 6 SYNTHÈSE + AUTO-RÉFLEXION | Terminé | Clôture du pipeline. Parcours 6 stades + 7 décisions structurantes + auto-réflexion IA honnête (concessions sur preuve 0/3→3/3 ; risque dominant = circularité auto-revue → complaisance MODÉRÉ ; transparence faiblesses active). reviews/synthese_processus_et_autoreflexion.md |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
