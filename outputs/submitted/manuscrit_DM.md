@@ -136,23 +136,23 @@ Le faible poids budgétaire trouve un écho dans un second indicateur, indépend
 
 Au niveau agrégé, parmi les 509 ménages qui déclarent acheter en vente directe aux agriculteurs, **54 % seulement ont effectivement acheté au cours du mois écoulé** via l'une des formes ; 46 % n'ont rien acheté récemment. La fréquentation déclarée surestime donc sensiblement la pratique en cours.
 
-Surtout, la récence décroît fortement avec l'effort qu'exige la forme, et la comparaison conventionnelle le souligne. Les canaux du quotidien sont fortement ancrés : chez le boulanger, 58 % des clients ont acheté le mois écoulé ; sur le marché au producteur, 59 %. Mais dès que la forme demande une démarche spécifique, la récence s'effondre : 22 % pour les magasins de producteurs, 17 % pour les halles, 7 % pour les foires et salons, 6 % pour les paniers en ligne — ces derniers affichant même 66 % de « jamais » parmi les acheteurs directs interrogés. Le boucher et le primeur (37-38 %) se situent au niveau de l'achat à la ferme (34 %), signe que le clivage ne suit pas la frontière conventionnel/alternatif mais bien le **degré d'effort** requis. L'abandon culmine enfin sur les formes les plus engageantes : parmi les ménages qui ont un jour été clients d'une **AMAP**, près des deux tiers (**65 %**) ne le sont plus.
+Surtout, la récence décroît fortement avec l'effort qu'exige la forme, et la comparaison conventionnelle le souligne. Les canaux du quotidien sont fortement ancrés : chez le boulanger, 58 % des clients ont acheté le mois écoulé ; sur le marché au producteur, 59 %. Mais dès que la forme demande une démarche spécifique, la récence s'effondre : 20 % pour les magasins de producteurs, 17 % pour les halles, 7 % pour les foires et salons, 6 % pour les paniers en ligne. Le boucher et le primeur (37-38 %) se situent au niveau de l'achat à la ferme (34 %), signe que le clivage ne suit pas la frontière conventionnel/alternatif mais bien le **degré d'effort** requis. Deux mécanismes se conjuguent. D'abord un déficit de **notoriété** des formes les plus institutionnelles : parmi les acheteurs directs eux-mêmes, 8 % ignorent ce qu'est un magasin de producteurs, 10 % ce qu'est un panier en ligne de type La Ruche, et jusqu'à **46 % ce qu'est une AMAP**. Ensuite un fort **abandon** : parmi les ménages qui ont un jour été clients d'une AMAP, près des deux tiers (**65 %**) ne le sont plus.
 
 **Tableau 3 : Récence d'achat par forme de vente directe et comparaison conventionnelle**
 
-| Forme | Interrogés (n) | Acheté le mois écoulé | Achète, pas ce mois-ci | N'achète plus | Jamais |
+| Forme | Interrogés (n) | Acheté le mois écoulé | Achète, pas ce mois-ci | N'achète plus | Jamais / ne connaît pas |
 |-------|:---:|:---:|:---:|:---:|:---:|
 | Marché (au producteur) | 810 | 59 % | 30 % | 6 % | 5 % |
 | Boulanger *(conv.)* | 893 | 58 % | 21 % | 10 % | 11 % |
 | Boucher *(conv.)* | 893 | 38 % | 32 % | 17 % | 13 % |
 | Primeur *(conv.)* | 893 | 37 % | 34 % | 17 % | 13 % |
 | À la ferme | 509 | 34 % | 35 % | 16 % | 15 % |
-| Magasin de producteurs | 469 | 22 % | 37 % | 17 % | 25 % |
+| Magasin de producteurs | 509 | 20 % | 34 % | 15 % | 31 % |
 | Halle commerçante | 509 | 17 % | 35 % | 19 % | 29 % |
 | Foire / salon | 509 | 7 % | 34 % | 18 % | 42 % |
-| Panier en ligne (La Ruche…) | 456 | 6 % | 12 % | 16 % | 66 % |
+| Panier en ligne (La Ruche…) | 509 | 6 % | 11 % | 14 % | 70 % |
 
-*Base : personnes interrogées sur chaque forme, en % ligne (hors rares « ne sait pas »). Les circuits en italique (boulanger, boucher, primeur) sont des comparateurs conventionnels spécialisés. L'AMAP est traitée à part (questionnaire sans référence au mois écoulé) : 35 % d'adhérents actuels contre 65 % d'anciens adhérents.*
+*Base : personnes interrogées sur chaque forme, en % ligne. Les 509 ménages qui achètent en vente directe aux agriculteurs sont interrogés sur toutes les formes directes ; la dernière colonne réunit « jamais acheté » et, pour les formes les moins connues, « ne connaît pas cette forme » (8 % pour les magasins de producteurs, 10 % pour les paniers en ligne). Les circuits en italique (boulanger, boucher, primeur) sont des comparateurs conventionnels spécialisés (clients d'artisans, n = 893). L'AMAP est traitée à part (questionnaire sans référence au mois écoulé) : parmi ses clients passés ou présents, 35 % le sont encore, 65 % ont cessé.*
 
 ![Figure 3](../../figures/png/fig6_essai_ancrage_nb.png)
 

@@ -24,8 +24,11 @@ CHANS = [("Q100","Boulanger (conv.)"), ("Q22","Marché (au producteur)"),
          ("Q53","Panier en ligne")]
 rows=[]
 for q,lab in CHANS:
-    s=num(q); base=((s>=1)&(s<=4)).sum()
-    rows.append((lab, base, *[100*(s==k).sum()/base for k in (1,2,3,4)]))
+    s=num(q); base=s.notna().sum()
+    # base = tous les interrogés (509 acheteurs directs / 810 marché / 893 artisans).
+    # modalité 5 « ne connaît pas la forme » regroupée avec « jamais » (s>=4).
+    rows.append((lab, base, 100*(s==1).sum()/base, 100*(s==2).sum()/base,
+                 100*(s==3).sum()/base, 100*(s>=4).sum()/base))
 fd=pd.DataFrame(rows, columns=["canal","base","recent","pas_ce_mois","nachete_plus","jamais"])
 fd=fd.sort_values("recent", ascending=False).reset_index(drop=True)
 
@@ -34,7 +37,7 @@ y=range(len(fd))
 segs=[("recent","0.20","Acheté le mois écoulé",None),
       ("pas_ce_mois","0.50","Achète, mais pas ce mois-ci",None),
       ("nachete_plus","0.78","N'achète plus (a cessé)","...."),
-      ("jamais","white","Jamais (via cette forme)","////")]
+      ("jamais","white","Jamais / ne connaît pas la forme","////")]
 left=np.zeros(len(fd))
 for col,c,lbl,h in segs:
     ax.barh(y, fd[col], left=left, color=c, edgecolor="black", hatch=h, label=lbl)
