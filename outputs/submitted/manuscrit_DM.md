@@ -35,7 +35,7 @@ Direct-from-farmer purchasing (on farms, in producer shops, community-supported 
 
 ## Introduction
 
-Sur un marché de plein vent, la moitié des clients disent venir chercher des « produits locaux » et « soutenir les agriculteurs ». Les enquêtes de consommation confirment cet engouement : les circuits courts jouissent d'une image très favorable et d'une visibilité croissante depuis le début des années 2000[^1]. Pourtant, à l'échelle du budget des ménages, la vente directe ne pèse presque rien — de l'ordre de quelques pour cent de la dépense alimentaire à domicile (Kneafsey et al., 2013). Ce contraste entre une adhésion large et un poids économique faible est le point de départ de cet article.
+Sur un marché de plein vent, la moitié des clients disent venir chercher des « produits locaux » et « soutenir les agriculteurs ». Les enquêtes de consommation confirment cet engouement : les circuits courts jouissent d'une image très favorable et d'une visibilité croissante depuis le début des années 2000[^1]. Le phénomène s'est d'ailleurs installé du côté de l'offre : en 2020, près d'une exploitation agricole française sur quatre commercialisait en circuit court (Agreste, 2023). Pourtant, à l'échelle du budget des ménages, la vente directe ne pèse presque rien — une part modeste de la dépense alimentaire (Enthoven et Van den Broeck, 2021). Ce contraste entre une adhésion large et un poids économique faible est le point de départ de cet article.
 
 L'enjeu n'est pas mince pour les acteurs. Le développement des circuits courts figure aujourd'hui parmi les objectifs affichés des politiques alimentaires territoriales, des chambres d'agriculture et d'une partie de la grande distribution, qui multiplie les rayons de producteurs. Tous partagent une même interrogation pratique : comment faire grandir une pratique qui suscite une adhésion de principe très large mais peine à se traduire dans les paniers ? Répondre suppose de savoir où, précisément, se situe le point de blocage — dans le recrutement de nouveaux acheteurs, ou dans la fidélisation de ceux qui essaient déjà.
 
@@ -45,13 +45,13 @@ Comprendre la place de la vente directe suppose donc de ne plus la regarder seul
 
 L'article apporte trois déplacements. Sur le plan **théorique**, il importe le cadre du **comportement omnicanal** — développé en distribution mais rarement appliqué à l'alimentation locale — pour lire la vente directe comme une fonction d'un portefeuille de canaux. Sur le plan **méthodologique**, il quitte le registre **déclaratif** (attitudes, intentions, consentement à payer) pour mesurer l'**allocation réelle de budget** entre canaux, sur données représentatives. Sur le plan **managérial**, il en tire des recommandations pour les acteurs qui cherchent à développer la vente directe. Après avoir précisé ce cadre, nous présentons l'enquête, puis les résultats — le paradoxe budgétaire, une typologie en cinq stratégies, et des déterminants sociaux ténus — avant d'en discuter les implications pour l'action.
 
-[^1]: Sources professionnelles et institutionnelles (FranceAgriMer, Agreste, Commission européenne) convergentes sur ce point ; voir Kneafsey et al. (2013) pour une synthèse socio-économique européenne.
+[^1]: Sources professionnelles et institutionnelles (FranceAgriMer, Agreste) convergentes sur ce point ; voir Enthoven et Van den Broeck (2021) pour une synthèse récente de la recherche.
 
 ## L'approvisionnement alimentaire, un comportement omnicanal
 
 ### Du canal isolé au portefeuille de canaux
 
-En France, la définition administrative des circuits courts retient la présence d'au plus un intermédiaire entre le producteur et le consommateur (Ministère de l'Agriculture et de l'Alimentation, 2009). La vente directe en est le sous-ensemble le plus strict — l'achat sans intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, associations pour le maintien d'une agriculture paysanne (AMAP), paniers en précommande (Chiffoleau, 2019 ; Maréchal, 2008). Tous partagent une même caractéristique : la relation directe au producteur, porteuse d'un supplément de sens et d'information sur le produit (Dubuisson-Quellier et al., 2011 ; Lamine et Perrot, 2008). À l'échelle européenne, l'état des lieux socio-économique de Kneafsey et al. (2013) souligne l'hétérogénéité de ces dispositifs et, surtout, la faiblesse persistante des données représentatives sur leur diffusion réelle auprès des ménages — un déficit que la présente enquête vise à combler. La littérature sur les réseaux alimentaires alternatifs insiste par ailleurs sur la **coexistence** plutôt que la rupture entre circuits : loin de se substituer à la grande distribution, la vente directe s'y articule (Goodman et DuPuis, 2002 ; Sage, 2003).
+En France, la définition administrative des circuits courts retient la présence d'au plus un intermédiaire entre le producteur et le consommateur (Ministère de l'Agriculture et de l'Alimentation, 2009). La vente directe en est le sous-ensemble le plus strict — l'achat sans intermédiaire — et recouvre une pluralité de dispositifs : vente à la ferme, marchés où le producteur vend lui-même, magasins de producteurs, associations pour le maintien d'une agriculture paysanne (AMAP), paniers en précommande (Chiffoleau, 2019 ; Maréchal, 2008). Tous partagent une même caractéristique : la relation directe au producteur, porteuse d'un supplément de sens et d'information sur le produit (Dubuisson-Quellier et al., 2011 ; Lamine et Perrot, 2008). La revue de Enthoven et Van den Broeck (2021), qui synthétise deux décennies de recherche sur les systèmes alimentaires locaux, souligne l'hétérogénéité de ces dispositifs et, surtout, la faiblesse persistante des données représentatives sur leur diffusion réelle auprès des ménages — un déficit que la présente enquête vise à combler. La littérature sur les réseaux alimentaires alternatifs insiste par ailleurs sur la **coexistence** plutôt que la rupture entre circuits : loin de se substituer à la grande distribution, la vente directe s'y articule (Goodman et DuPuis, 2002 ; Sage, 2003).
 
 La littérature en distribution a montré de longue date que les consommateurs ne sont pas fidèles à un format unique : ils **combinent plusieurs canaux** pour des fonctions distinctes, ce qui pose des enjeux spécifiques de coordination et d'allocation entre points de vente (Neslin et al., 2006). Le passage du *multicanal* à l'*omnicanal* (Verhoef et al., 2015) a ensuite déplacé l'attention de la simple juxtaposition des canaux vers leur **intégration** dans un parcours d'achat unifié, où le consommateur arbitre en continu entre points de vente selon le produit, le moment et le contexte. En France, les travaux sur le *cross-shopping* et la valeur du magasinage (Filser et Plichon, 2004 ; Volle, 2012) avaient déjà documenté cette pluralité des fréquentations : le ménage gère de fait un **portefeuille de canaux**, mobilisés pour des fonctions différentes — l'hypermarché pour le gros des courses et les prix, l'artisan pour la qualité de certains produits, le marché pour le frais et le plaisir.
 
@@ -76,7 +76,7 @@ Ce positionnement (Tableau 1) conduit à trois attentes, que l'analyse met à l'
 | Comportement omnicanal | Neslin et al. (2006) ; Verhoef et al. (2015) | Application inédite à l'alimentation locale et directe |
 | Consommation durable | Vermeir et Verbeke (2006) ; Giampietri et al. (2016, 2018) ; Birch et al. (2018) | Du déclaratif à l'allocation budgétaire réelle |
 | Segmentation | Feldmann et Hamm (2015) ; Herzig et Zander (2025) ; Mustapa et Kallas (2025) | Segmentation par le portefeuille de canaux et le budget réel |
-| Circuits courts (UE/France) | Kneafsey et al. (2013) ; Chiffoleau (2019) ; Praly et al. (2014) | Mesure représentative nationale, côté ménage |
+| Circuits courts (UE/France) | Enthoven et Van den Broeck (2021) ; Chiffoleau (2019) ; Agreste (2023) | Mesure représentative nationale, côté ménage |
 
 ## Une enquête représentative sur treize canaux d'achat
 
@@ -229,6 +229,8 @@ Ces limites ouvrent des pistes. Un suivi **longitudinal** permettrait de tester 
 
 ## Références
 
+Agreste (2023), Près d'une exploitation sur quatre vend en circuit court, *Agreste Primeur*, n°2023-5 (Recensement agricole 2020), Ministère de l'Agriculture.
+
 Birch D., Memery J. et De Silva Kanakaratne M. (2018), The mindful consumer: balancing egoistic and altruistic motivations to purchase local food, *Journal of Retailing and Consumer Services*, 40: 221-228.
 
 Chiffoleau Y. (2019), *Les circuits courts alimentaires : entre marché et innovation sociale*, Toulouse, Érès.
@@ -236,6 +238,8 @@ Chiffoleau Y. (2019), *Les circuits courts alimentaires : entre marché et innov
 Chiffoleau Y. et Dourian T. (2020), Sustainable food supply chains: is shortening the answer? A literature review for a research and innovation agenda, *Sustainability*, 12(23): 9831.
 
 Dubuisson-Quellier S., Lamine C. et Le Velly R. (2011), Citizenship and consumption: mobilisation in alternative food systems in France, *Sociologia Ruralis*, 51(3): 304-323.
+
+Enthoven L. et Van den Broeck G. (2021), Local food systems: reviewing two decades of research, *Agricultural Systems*, 193: 103226.
 
 Feldmann C. et Hamm U. (2015), Consumers' perceptions and preferences for local food: a review, *Food Quality and Preference*, 40: 152-164.
 
@@ -248,8 +252,6 @@ Giampietri E., Verneau F., Del Giudice T. et al. (2018), A theory of planned beh
 Goodman D. et DuPuis E.M. (2002), Knowing food and growing food: beyond the production-consumption debate in the sociology of agriculture, *Sociologia Ruralis*, 42(1): 5-22.
 
 Herzig J. et Zander K. (2025), Determinants of consumer behavior in short food supply chains: a systematic literature review, *Agricultural and Food Economics*, 13(1): 1-40.
-
-Kneafsey M., Venn L., Schmutz U. et al. (2013), *Short food supply chains and local food systems in the EU: a state of play of their socio-economic characteristics*, Luxembourg, Commission européenne (JRC Scientific and Policy Reports).
 
 Lamine C. et Perrot N. (2008), *Les AMAP : un nouveau pacte entre producteurs et consommateurs ?*, Gap, Yves Michel.
 
