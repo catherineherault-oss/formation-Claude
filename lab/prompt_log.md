@@ -209,3 +209,9 @@ Toutes les exigences de la revue traitées **sur les données existantes** (nouv
 **Mineurs** : « inédit » → « rarement appliqué explicitement » ; accroche reliée à nos données (Fig. 6) ; comparaison artisans encadrée (bases 893 vs 509) ; colinéarité diplôme×CSP V=0,29, diplôme×budget ρ=0,06.
 **Intégrité** : résultat nouveau **surfacé honnêtement** — le diplôme prédit l'essai (OR 1,89, p=0,003) mais **pas** l'adoption régulière (OR 1,22, p=0,45) ; renforce la thèse « configuration d'usage > profil social ».
 **Livrables** : `manuscrit_DM.md/.docx` (7871 mots < 8000) + `reponse_aux_relecteurs_DM.md/.docx`. Prochain : Stade 3' (re-revue de vérification).
+
+## 2026-07-08 — Stade 3′ (re-revue de vérification) + retouches mineures
+Contrôle du **texte révisé** (pas de la seule lettre de réponse) : **12/12 points vérifiés RÉSOLUS**. L'avocat du diable re-teste ses 3 attaques → concessions accordées (5/5, 4/5, 5/5), aucune attaque maintenue.
+**Décision révisée : Acceptation sous réserve de modifications mineures** (révision mineure). Rigueur méthodo 5,5→7,5.
+4 points résiduels mineurs (m1 cohérence diplôme, m2 borne haute conversion, m3 budget mots, m4 poids classe C5). **m1+m2 appliqués** dans le manuscrit (Encadré 3 + reco 3 : gradient diplôme « à l'essai, pas à l'adoption » ; projection 4 % qualifiée de borne haute). m3/m4 déjà couverts.
+**Livrables** : reviews/re_revue_verification_DM.md (+.docx). Manuscrit 7915 mots. Prochain : Stade 4.5 (intégrité finale).
