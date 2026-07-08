@@ -80,7 +80,8 @@ d["age"]=pd.Categorical(d["age"],["20-24","25-34","35-44","45-54","55-64","65+"]
 d["csp"]=pd.Categorical(d["csp"],["Employés/ouvriers","Indép./agri","Cadres/prof.lib",
     "Prof. interm.","Retraités","Inactifs/autres"])
 d["sexe"]=pd.Categorical(d["sexe"],["Homme","Femme"])
-f="vente_directe ~ C(sexe)+C(age)+C(csp)+budget_z"
+d["diplome"]=pd.Categorical(d["diplome"],["Infra-bac","Bac","Bac+2","Bac+3 et plus"])
+f="vente_directe ~ C(sexe)+C(age)+C(csp)+C(diplome)+budget_z"
 if "tuu" in d.columns:
     d["tuu_z"]=(d["tuu"]-d["tuu"].mean())/d["tuu"].std(); f+="+tuu_z"
 m=smf.logit(f,data=d).fit(disp=0)

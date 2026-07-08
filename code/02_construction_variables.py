@@ -40,6 +40,9 @@ a["csp"] = num("recode_csp").map({
     4: "Employés/ouvriers", 5: "Retraités", 6: "Inactifs/autres"})
 a["responsable_achats"] = num("Q4").map({1: "Intégralement", 2: "Partiellement"})
 a["budget_eur"] = num("Q8")
+# Diplôme (Q240) recodé en 4 niveaux : Infra-bac / Bac / Bac+2 / Bac+3 et plus
+a["diplome"] = pd.cut(num("Q240"), bins=[0, 3, 4, 5, 8],
+                      labels=["Infra-bac", "Bac", "Bac+2", "Bac+3 et plus"])
 # Taille d'unité urbaine si disponible
 if "Q5_tuu" in df.columns:
     a["tuu"] = num("Q5_tuu")

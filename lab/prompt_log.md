@@ -176,3 +176,11 @@ sections, sources et livrables + thèse opérationnelle en conclusion).
 
 ---
 *(Les prochains échanges seront ajoutés ici automatiquement)*
+
+## 2026-07-07 — Révisions autrice (7 points)
+**Titre** → « Beaucoup l'essaient, peu l'adoptent » (« installent » abandonné ; vocabulaire install→adoption/ancrage partout).
+**Classes renommées** : Multi-canal modérés · Captifs de la grande distribution · Multi-canal intensifs · Explorateurs conventionnels · Adeptes de la proximité (+ colonne nb de canaux fréq./rég. au Tableau 4).
+**Reformulations** : « quitter le déclaratif » → attitudes/intentions → pratiques d'achat déclarées (nos données restent déclaratives, mais portent sur des comportements). Retrait du contraste Mustapa +34,5 % vs budget (comparaison abusive WTP ≠ part de budget).
+**Tableau 3 / Figure 3 redessinés** : 4 modalités (base unique = interrogés), légende au-dessus, comparaison à 3 circuits conventionnels (boulanger/boucher/primeur) ; AMAP traitée à part.
+**Diplôme (Q240)** : ajouté aux déterminants. Classes × diplôme p<0,001 (intensifs/explorateurs très diplômés) ; régression : bac+3+ OR 1,89 (p=0,003), absorbe l'effet cadres (→ p=0,07). Éducation = principal gradient, modèle toujours faible (pseudo-R² 0,029). Figure 5 régénérée.
+**Fichiers** : code/02 (diplôme), code/06 (régression+diplôme), code/07 (figure récence), code/09 (analyses) ; manuscrit ~6530 mots ; DOCX régénéré.
