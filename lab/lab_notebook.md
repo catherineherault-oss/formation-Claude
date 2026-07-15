@@ -1,5 +1,5 @@
 # Cahier de laboratoire — [Nom du projet]
-> Dernière mise à jour : 2026-07-08 (intégration littérature AMT)
+> Dernière mise à jour : 2026-07-08 (relecture ciblée)
 
 ## Synthèse de la recherche en cours
 *(Résumé de 3-5 phrases de ce qu'on cherche à comprendre ou produire)*
@@ -41,6 +41,7 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-08 | Stade 5 FINALISATION | Terminé | Paquet de soumission DM assemblé (outputs/soumission_DM/) : manuscrit anonyme + page de titre séparée + checklist conformité + réponse relecteurs. Corps sans fuite d'identité. Toutes normes DM ✅. Champs auteur à compléter. |
 | 2026-07-08 | Stade 6 SYNTHÈSE + AUTO-RÉFLEXION | Terminé | Clôture du pipeline. Parcours 6 stades + 7 décisions structurantes + auto-réflexion IA honnête (concessions sur preuve 0/3→3/3 ; risque dominant = circularité auto-revue → complaisance MODÉRÉ ; transparence faiblesses active). reviews/synthese_processus_et_autoreflexion.md |
 | 2026-07-08 | Intégration littérature collègue (AMT) | Terminé | Sous-section revue de litt. « pourquoi combiner les canaux » (cross-shopping + théorie des buts) + **section Discussion** créée (style bio). 7 réfs vérifiées (2 prénoms corrigés : Hino=Hayiel, Harris=Patricia). Attentes en prose enrichies, allusion « travaux en cours » retirée. 124/124 chiffres OK, 29 réfs, 7980 mots. |
+| 2026-07-08 | Relecture ciblée « delta » des ajouts | Terminé | Fidélité des 7 citations : 3 corrections de drift (Pauwels & Neslin cannibalisation nuancée ; Harris « évolue dans le temps »→« diffère selon situation » ; Hai Tran allégé). Pas de sur-interprétation résiduelle. 7986 mots, 124/124. reviews/relecture_ciblee_ajouts_litterature.md |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |
