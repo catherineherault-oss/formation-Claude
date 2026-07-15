@@ -19,12 +19,13 @@
 
 | Norme *Décisions Marketing* | Exigence | Manuscrit | Statut |
 |------------------------------|----------|-----------|:------:|
-| Longueur | < 8 000 mots | 7 980 mots | ✅ |
+| Longueur (mots) | < 8 000 mots | 7 986 mots | ✅ |
+| Longueur (pages) | ≤ 20 pages (hors page de titre + résumés) | ~22 p. estimées | ⚠️ à réduire |
 | Références | ≤ 35 | 29 | ✅ |
 | Police / interligne / marges | TNR 12, interligne 1,5, marges 2,5 cm | gabarit `reference_dm.docx` appliqué | ✅ |
 | Résumé structuré | Objectifs · Méthodologie · Résultats · Implications managériales · Originalité · Mots-clés | 6 rubriques présentes | ✅ |
 | Abstract + keywords (EN) | Résumé et mots-clés en anglais | présents | ✅ |
-| Titres | Thématiques (non « Introduction / Méthode… ») | thématiques | ✅ |
+| Titres | Thématiques ; **style Normal**, Titre 1 = TNR 14 gras, Sous-titre = TNR 12 italique (pas de styles Word) | appliqué (post-traitement `code/12`) | ✅ |
 | Encadrés | Recommandé | 3 encadrés (dispositif, typologie, recommandations) | ✅ |
 | Style de références | RAM/Harvard : « et » (non « & »), revue en italique, vol(n): pages | appliqué | ✅ |
 | Figures | Noir et blanc, numérotées, légendées | 6 figures N&B | ✅ |
