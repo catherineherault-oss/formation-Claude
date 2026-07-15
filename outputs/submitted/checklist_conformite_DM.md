@@ -19,16 +19,16 @@
 
 | Norme *Décisions Marketing* | Exigence | Manuscrit | Statut |
 |------------------------------|----------|-----------|:------:|
-| Longueur (mots) | < 8 000 mots | 7 986 mots | ✅ |
-| Longueur (pages) | ≤ 20 pages (hors page de titre + résumés) | ~22 p. estimées | ⚠️ à réduire |
+| Longueur (mots) | < 8 000 mots | 7 710 mots | ✅ |
+| Longueur (pages) | ≤ 20 pages (hors page de titre + résumés) | ~19-20 p. estimées | ✅ (coupe Enc. 3 + Fig. plan factoriel + Fig. motivations) |
 | Références | ≤ 35 | 29 | ✅ |
 | Police / interligne / marges | TNR 12, interligne 1,5, marges 2,5 cm | gabarit `reference_dm.docx` appliqué | ✅ |
 | Résumé structuré | Objectifs · Méthodologie · Résultats · Implications managériales · Originalité · Mots-clés | 6 rubriques présentes | ✅ |
 | Abstract + keywords (EN) | Résumé et mots-clés en anglais | présents | ✅ |
 | Titres | Thématiques ; **style Normal**, Titre 1 = TNR 14 gras, Sous-titre = TNR 12 italique (pas de styles Word) | appliqué (post-traitement `code/12`) | ✅ |
-| Encadrés | Recommandé | 3 encadrés (dispositif, typologie, recommandations) | ✅ |
+| Encadrés | Recommandé | 2 encadrés (dispositif, typologie) | ✅ |
 | Style de références | RAM/Harvard : « et » (non « & »), revue en italique, vol(n): pages | appliqué | ✅ |
-| Figures | Noir et blanc, numérotées, légendées | 6 figures N&B | ✅ |
+| Figures | Noir et blanc, numérotées, légendées | 4 figures N&B | ✅ |
 | Tableaux | Numérotés, légendés | 6 tableaux | ✅ |
 | Recommandations managériales | Section dédiée | « Ce que les acteurs peuvent en faire » + Encadré 3 + Tableau 6 | ✅ |
 | Double aveugle | Corps anonymisé, page de titre séparée | corps sans identité (vérifié) ; page de titre à part | ✅ |

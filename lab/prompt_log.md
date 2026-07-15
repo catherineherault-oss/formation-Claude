@@ -233,3 +233,9 @@ Ajouts issus du doc d'AMT sur la complémentarité des canaux et les motivations
 
 ## 2026-07-08 — Relecture ciblée « delta » des ajouts (fidélité des citations)
 Relecture du seul matériel nouveau (Discussion + sous-section litt. + 7 réfs). Fidélité des citations : 3 bien soutenues (Vroegrijk, Melis, Hino), **3 corrections de citation-drift** — Pauwels & Neslin (cannibalisation existe mais compensée, +20% net → « complémentarité l'emportant sur la cannibalisation »), Harris (« évolue dans le temps » non établi par étude transversale → « diffère d'une situation à l'autre »), Hai Tran & Sirieix (move théorique attribué → citation de soutien allégée). Sur-interprétation : aucune résiduelle (analogies explicites, verbes modestes). Cohérence : nuance diplôme essai≠adoption maintenue, aucun chiffre nouveau. Post-correction : 7986 mots, 29 réfs, 124/124. Livrable : reviews/relecture_ciblee_ajouts_litterature.md.
+
+## 2026-07-08 — Conformité format DM (style titres + limite 20 pages)
+Lecture des instructions aux auteurs : ≤20 pages (tabl./fig./réfs compris, hors page de titre + résumés) ; **style Normal obligatoire** (pas de styles de titre Word) ; Titre 1 = TNR 14 gras, Sous-titre = TNR 12 italique.
+- **Style** : post-traitement `code/12_format_dm_docx.py` — tout le doc en style Normal, titres formatés à la main, corps TNR 12 / interligne 1,5 / justifié. (LibreOffice cassé dans l'env → décompte de pages non mesurable, estimé.)
+- **Coupes validées par l'autrice** : Encadré 3 (répétait les 4 recommandations), Figure 4 (plan factoriel ACM, silhouette 0,24), Figure 6 + paragraphe motivations (n'apportait rien). Figures renumérotées (régression 5→4). Prix réancré sur Feldmann & Hamm. Léger resserrement managérial.
+- **Résultat** : 6 figs→4, 3 encadrés→2, 7986→7710 mots ; estimation ~19-20 pages (était ~22). Audit `code/11` réaligné (retrait des contrôles motivations) : 119/119. 29 réfs, 0 orpheline.

@@ -130,12 +130,8 @@ for q,(b,r1,r2,r3,r4) in REC.items():
     chk(f"Récence {q} récent",r1,100*(s==1).sum()/base,tol=1)
     chk(f"Récence {q} n'achète plus",r3,100*(s==3).sum()/base,tol=1)
 
-# --- Motivations marché (Q21 top3) ------------------------------------------
-top3=pd.concat([num(c) for c in ["Q21_1","Q21_2","Q21_3"]]); cnt=top3.value_counts()
-mbase=raw["Q21_1"].notna().sum()
-MOT={4:51,15:41,14:39,5:34,12:18}  # locaux, circuit court, goût, soutien, prix
-for code,pctc in MOT.items():
-    chk(f"Motivation code{code} %",pctc,100*cnt.get(code,0)/mbase,tol=1)
+# (Les motivations Q21 / Figure « motivations » ont été retirées du manuscrit
+#  pour tenir la limite de 20 pages ; plus de claim chiffré à auditer ici.)
 
 # --- Rapport ----------------------------------------------------------------
 npass=sum(1 for c in checks if c[0]); nfail=len(checks)-npass
