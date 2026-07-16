@@ -19,7 +19,7 @@
 
 | Norme *Décisions Marketing* | Exigence | Manuscrit | Statut |
 |------------------------------|----------|-----------|:------:|
-| Longueur (mots) | < 8 000 mots | 7 710 mots | ✅ |
+| Longueur (mots) | < 8 000 mots | 7 890 mots | ✅ |
 | Longueur (pages) | ≤ 20 pages (hors page de titre + résumés) | ~19-20 p. estimées | ✅ (coupe Enc. 3 + Fig. plan factoriel + Fig. motivations) |
 | Références | ≤ 35 | 29 | ✅ |
 | Police / interligne / marges | TNR 12, interligne 1,5, marges 2,5 cm | gabarit `reference_dm.docx` appliqué | ✅ |
