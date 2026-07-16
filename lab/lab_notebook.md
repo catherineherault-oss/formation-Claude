@@ -1,5 +1,5 @@
 # Cahier de laboratoire — [Nom du projet]
-> Dernière mise à jour : 2026-07-08 (recadrage théorique)
+> Dernière mise à jour : 2026-07-08 (approfondissement cross-shopping)
 
 ## Synthèse de la recherche en cours
 *(Résumé de 3-5 phrases de ce qu'on cherche à comprendre ou produire)*
@@ -44,6 +44,7 @@ communication en français, articles en français, format de sortie Word/DOCX.
 | 2026-07-08 | Relecture ciblée « delta » des ajouts | Terminé | Fidélité des 7 citations : 3 corrections de drift (Pauwels & Neslin cannibalisation nuancée ; Harris « évolue dans le temps »→« diffère selon situation » ; Hai Tran allégé). Pas de sur-interprétation résiduelle. 7986 mots, 124/124. reviews/relecture_ciblee_ajouts_litterature.md |
 | 2026-07-08 | Conformité format DM (titres + 20 pages) | Terminé | Style Normal + titres manuels (code/12). Coupes autrice : Encadré 3, Fig. plan factoriel, Fig.+texte motivations. 6→4 figs, 3→2 encadrés, 7710 mots, ~19-20 p (était ~22). Audit 119/119. |
 | 2026-07-08 | Recadrage omnicanal→portefeuille/cross-shopping + buts | Terminé | Omnicanal (Verhoef = 1 distributeur intégré) inadapté au ménage combinant des enseignes indépendantes → recadré en portefeuille de canaux/cross-shopping (résumé, abstract, mots-clés, intro, §litt., Tableau 1). Omnicanal gardé au niveau enseigne (managérial). Théorie des buts hedgée (non testée) + limite assumée + piste. 119/119, 7890 mots. |
+| 2026-07-08 | Approfondissement cross-shopping/portefeuille | Terminé | Ancrage patronage : magasin primaire/secondaire + coûts fixes (Bell, Ho & Tang 1998) ; types de courses major/appoint (Kahn & Schmittlein 1989). Paient dans les résultats (noyau/périphérie = primaire/secondaire). Fil attitude-comportement resserré en compensation. 2 réfs vérifiées, 31 réfs, 7967 mots, 119/119. |
 
 ## Hypothèses
 | # | Hypothèse | Confirmée / Infirmée / En cours | Source |

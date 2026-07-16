@@ -245,3 +245,11 @@ Deux critiques conceptuelles de l'autrice, toutes deux fondées :
 1. **Omnicanal mal choisi** : l'omnicanal (Verhoef) suppose UN distributeur intégrant SES canaux ; or le ménage combine des enseignes indépendantes non intégrées → c'est du **cross-shopping / portefeuille de canaux du consommateur**. Recadrage complet (solution 1) : titre de section, résumé, abstract, mots-clés (FR+EN), intro (1er déplacement), §littérature (ajout d'un paragraphe qui pose explicitement la distinction), Tableau 1, résultats. « Omnicanal » conservé aux seuls endroits légitimes : le paragraphe qui explique la distinction, la reco managériale au niveau enseigne (précommande+retrait), la réf Verhoef.
 2. **Théorie des buts invoquée mais non testée** (on ne mesure pas les motivations à combiner) : hedge en Discussion (« interprétation plausible que nos données ne testent pas ») + **nouvelle limite assumée** (dispositif comportemental, pas motivationnel — revers du parti pris pratiques>attitudes) + piste de recherche (coupler portefeuille et mesure des buts). Corrigé au passage la phrase Limites « motivations analysées pour le marché » (obsolète depuis retrait Fig. motivations).
 Intégrité : 119/119, 29 réfs, 0 orpheline, 7890 mots. DOCX formaté DM régénéré.
+
+## 2026-07-08 — Approfondissement cross-shopping / portefeuille (option 1)
+Ancrage renforcé de la revue de littérature sur le patronage de points de vente, avec paiement dans les résultats :
+- **Sous-section 1** : structure hiérarchique du portefeuille — coûts fixes → magasin primaire, canaux secondaires au-delà d'un « seuil de panier » (Bell, Ho & Tang 1998, vérifiée : JMR 35(3):352-369).
+- **Sous-section 2** : logique des types de courses — grosses courses vs courses d'appoint (Kahn & Schmittlein 1989, vérifiée : Marketing Letters 1(1):55-69) ; la VD relève de l'appoint.
+- **Résultats** : « noyau/périphérie » nommé explicitement magasin primaire / canaux secondaires d'appoint (le concept paie).
+Fil attitude-comportement conservé et resserré pour compenser (Birch/Giampietri condensés, Mustapa dédupliqué en sous-sec 4).
+**Relecture ciblée de vérification** : 2 nouvelles réfs fidèles (coûts fixes/seuil de panier ✓ ; major/fill-in trips ✓), 0 orpheline, 31 réfs (≤35), 7967 mots (<8000), 119/119 chiffres. DOCX formaté DM régénéré.
