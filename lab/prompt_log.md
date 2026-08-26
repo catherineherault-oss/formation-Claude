@@ -261,3 +261,6 @@ Report sur le dépôt des corrections décidées avec l'autrice (elle applique e
 - Section récence : ajout du cadre des **jugements de fréquence comportementale** (Menon, Raghubir et Schwarz 1995, vérifiée : JCR 22(2):212-228) — une question générale appelle une réponse plus inclusive qu'une question datée — tout en préservant la thèse (abandon modéré + poids budgétaire = pas un simple artefact).
 Coupes compensatoires pour rester <8000 (incise saisonnalité, énumération dupliquant Tableau 4, redites). Résultat : 7999 mots, 32 réfs (≤35), 0 orpheline, « intention-comportement » = 0 occurrence.
 **Intégrité** : aucun chiffre modifié ce tour ; l'audit code/11 n'est pas rejouable (conteneur réinitialisé → données brutes locales/gitignorées + paquets perdus), le dernier run 119/119 reste valable puisque les nombres sont inchangés. DOCX régénéré (toolchain réinstallée).
+
+## 2026-07-08 — Résumé reformaté (un seul paragraphe ≤250 mots)
+Retour autrice : le résumé doit faire ≤250 mots, en un seul paragraphe continu, couvrant les catégories (objectif/méthode/résultats/implications/originalité) sans sous-titres. Résumé structuré (5 blocs gras) → **paragraphe unique de 246 mots**. Substance préservée (paradoxe 65%/1,5%, essai-adoption, 5 stratégies, diplôme, conversion, portefeuille/pratiques). Checklist mise à jour. Total manuscrit 7923 mots. DOCX régénéré.
