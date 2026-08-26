@@ -19,11 +19,11 @@
 
 | Norme *Décisions Marketing* | Exigence | Manuscrit | Statut |
 |------------------------------|----------|-----------|:------:|
-| Longueur (mots) | < 8 000 mots | 7 923 mots | ✅ |
+| Longueur (mots) | < 8 000 mots | 7 972 mots | ✅ |
 | Longueur (pages) | ≤ 20 pages (hors page de titre + résumés) | ~19-20 p. estimées | ✅ (coupe Enc. 3 + Fig. plan factoriel + Fig. motivations) |
 | Références | ≤ 35 | 32 | ✅ |
 | Police / interligne / marges | TNR 12, interligne 1,5, marges 2,5 cm | gabarit `reference_dm.docx` appliqué | ✅ |
-| Résumé | Un seul paragraphe ≤ 250 mots (objectif, méthode, résultats, implications, originalité) | 246 mots, un paragraphe | ✅ |
+| Résumé | Un seul paragraphe ≤ 250 mots (objectif, méthode, résultats, implications, originalité) | 230 mots, un paragraphe | ✅ |
 | Abstract + keywords (EN) | Résumé et mots-clés en anglais | présents | ✅ |
 | Titres | Thématiques ; **style Normal**, Titre 1 = TNR 14 gras, Sous-titre = TNR 12 italique (pas de styles Word) | appliqué (post-traitement `code/12`) | ✅ |
 | Encadrés | Recommandé | 2 encadrés (dispositif, typologie) | ✅ |
