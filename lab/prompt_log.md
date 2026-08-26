@@ -253,3 +253,11 @@ Ancrage renforcé de la revue de littérature sur le patronage de points de vent
 - **Résultats** : « noyau/périphérie » nommé explicitement magasin primaire / canaux secondaires d'appoint (le concept paie).
 Fil attitude-comportement conservé et resserré pour compenser (Birch/Giampietri condensés, Mustapa dédupliqué en sous-sec 4).
 **Relecture ciblée de vérification** : 2 nouvelles réfs fidèles (coûts fixes/seuil de panier ✓ ; major/fill-in trips ✓), 0 orpheline, 31 réfs (≤35), 7967 mots (<8000), 119/119 chiffres. DOCX formaté DM régénéré.
+
+## 2026-07-08 — Nuance « écart intention-comportement » → écart essai-adoption (report Markdown)
+Report sur le dépôt des corrections décidées avec l'autrice (elle applique en parallèle sur son .docx) : l'article ne mesure pas l'intention, seulement des comportements.
+- Résumé (Originalité), attentes, résultat central : « écart intention/attitude-comportement » reformulé en **écart essai-adoption** observé dans les seuls comportements, *en écho* (non mesure) à l'attitude-behaviour gap de la littérature.
+- Mots-clés FR/EN : « écart intention-comportement / intention-behaviour gap » → **écart essai-adoption / trial-adoption gap**.
+- Section récence : ajout du cadre des **jugements de fréquence comportementale** (Menon, Raghubir et Schwarz 1995, vérifiée : JCR 22(2):212-228) — une question générale appelle une réponse plus inclusive qu'une question datée — tout en préservant la thèse (abandon modéré + poids budgétaire = pas un simple artefact).
+Coupes compensatoires pour rester <8000 (incise saisonnalité, énumération dupliquant Tableau 4, redites). Résultat : 7999 mots, 32 réfs (≤35), 0 orpheline, « intention-comportement » = 0 occurrence.
+**Intégrité** : aucun chiffre modifié ce tour ; l'audit code/11 n'est pas rejouable (conteneur réinitialisé → données brutes locales/gitignorées + paquets perdus), le dernier run 119/119 reste valable puisque les nombres sont inchangés. DOCX régénéré (toolchain réinstallée).
