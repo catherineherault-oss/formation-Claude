@@ -9,23 +9,19 @@
 
 **Titre en anglais :** *"Many try it, few adopt it": Direct-from-farmer purchasing in the provisioning strategies of French households*
 
-## Auteur·e·s
+## Auteures
 
-**Catherine Hérault**
-*(Affiliation, laboratoire, adresse — à compléter)*
-Courriel : catherine.herault@…
-*Auteure correspondante*
+**Catherine Hérault-Fournier** — *auteure correspondante*
+Laboratoire NUDD (Usages du numérique pour le développement durable), La Rochelle Université
+Courriel : catherine.herault-fournier@univ-lr.fr
 
-**Aurélia [NOM À COMPLÉTER]**
-*(Affiliation, laboratoire, adresse — à compléter)*
-Courriel : …
-
-*Ordre des auteures à confirmer.*
+**Aurélia Michaud-Trévinal**
+Laboratoire NUDD (Usages du numérique pour le développement durable), La Rochelle Université
+Courriel : amichaud@univ-lr.fr
 
 ## Remerciements
 
 Les auteures remercient l'ensemble des ménages ayant répondu au questionnaire, ainsi que le projet **PlaTerfood** pour le financement de l'enquête.
-*(Préciser, le cas échéant : organisme financeur de l'enquête, n° de convention, personnes ayant contribué à la relecture.)*
 
 ## Déclarations
 
@@ -35,4 +31,4 @@ Les auteures remercient l'ensemble des ménages ayant répondu au questionnaire,
 
 ## Référence de citation (une fois publié)
 
-Hérault C. et [Aurélia NOM] A. (année), Beaucoup l'essaient, peu l'adoptent : la vente directe dans les stratégies d'approvisionnement des ménages français, *Décisions Marketing*, n°…, p. …
+Hérault-Fournier C. et Michaud-Trévinal A. (année), Beaucoup l'essaient, peu l'adoptent : la vente directe dans les stratégies d'approvisionnement des ménages français, *Décisions Marketing*, n°…, p. …
